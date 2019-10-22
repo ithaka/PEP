@@ -12,7 +12,7 @@ sceleratum humus. Volatilis habenis vulgus.
 
 ## Deliverables
 
-* Goal 1
+* Goal 1.5
 * Goal 2
 * Goal 3
 * Goal 4
