@@ -107,7 +107,7 @@
 <h2 id="h2">H2</h2>
 <h3 id="h3">H3</h3>
 <h4 id="h4">H4</h4>
-<h5 id="h5">H5</h5>
+<h5 id="h5-changes">H5 Changes</h5>
 <h6 id="h6">H6</h6>
 <h1 id="emphasis">Emphasis</h1>
 <pre><code>Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -177,12 +177,31 @@ http://www.example.com or <a href="http://www.example.com">http://www.example.co
 example.com (but not on Github, for example).</p>
 <p>Some text to show that the reference links can follow later.</p>
 <h1 id="images">Images</h1>
-<p>Here's our logo (hover to see the title text):</p>
+<pre><code>Here's a logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 1&quot;)
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 2&quot;
+</code></pre>
+
+<p>Here's a logo (hover to see the title text):</p>
 <p>Inline-style: 
 <img alt="alt text" src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" title="Logo Title Text 1" /></p>
 <p>Reference-style: 
 <img alt="alt text" src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" title="Logo Title Text 2" /></p>
 <h1 id="blockquotes">Blockquotes</h1>
+<pre><code>&gt; Blockquotes are very handy in email to emulate reply text.
+&gt; This line is part of the same quote.
+
+Quote break.
+
+&gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+</code></pre>
+
 <blockquote>
 <p>Blockquotes are very handy in email to emulate reply text.
 This line is part of the same quote.</p>
@@ -192,6 +211,21 @@ This line is part of the same quote.</p>
 <p>This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote. </p>
 </blockquote>
 <h1 id="horizontal-rule">Horizontal Rule</h1>
+<pre><code>Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
+</code></pre>
+
 <p>Three or more...</p>
 <hr />
 <p>Hyphens</p>
