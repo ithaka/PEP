@@ -11,13 +11,13 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Installation
 
-Lorem Ipsum
+Lorem Ipsum extra text
 
-##Educational Resources
+## Educational Resources
 
-Lorem Ipsum
+Lorem Ipsum Dolor
 
-##Other 
+## Other 
 
 Lorem Ipsum
 

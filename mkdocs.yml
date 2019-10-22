@@ -3,3 +3,4 @@ site_name: PEP Documentation
 nav: 
 - Home: index.md
 - About: about.md
+- Markdown: markdown.md
