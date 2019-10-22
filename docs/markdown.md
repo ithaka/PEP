@@ -35,6 +35,10 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
 # Lists
 ```
 1. First ordered list item
