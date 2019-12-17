@@ -3,4 +3,7 @@ site_name: PEP Documentation
 nav: 
 - Home: index.md
 - About: about.md
+- Installation: installation.md
+- For Instructors and Librarians: instructors.md  
+- For Students: students.md
 - Markdown: markdown.md
