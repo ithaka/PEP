@@ -58,13 +58,13 @@ After you feel confident selecting search terms and constructing a search string
 - How to refine your search for a manageable set of relevant results
 - How to document your sources so that they’re easier to access and use
 
-Project Planning
+#### Project Planning
 
 Before you begin the search process, be sure to review your project outline. Aligning your search with the project’s requirements will save you time in the long run. For example, if your assignment specifies that you use “recent” or “current” sources, you will probably want to use the advanced search option to narrow the dates on your search. That way, you won’t waste time reviewing resources that aren’t appropriate for your assignment.
 
 Keeping your project outline at the forefront will also help you know when to stop searching for a specific subtopic and move on to other needed information. You’ll be most efficient if you stop when you have enough information to complete your work. 
 
-Your Search Results
+#### Your Search Results
 
 When you’ve conducted your initial search, take a look at the results to get a sense of how effective your search string is. 
 First, how many results are there? For example, if your search produces no results, or very few results, that may not be enough material for you to work with. With such a small set of results, you should also consider the possibility that you might be excluding some useful sources. If your search produces 15,000 results, on the other hand, it’s not realistic to think you’ll be able to review all of them to find the useful ones.
@@ -72,7 +72,13 @@ Next, how relevant do the results seem at a glance? Have you put them in order b
 Think of searching as a process, not an event. It’s pretty unusual to get a perfect, useful, relevant set of results from the very first search string you enter. 
 Next, you’ll learn how to adjust your search to get a broader or narrower set of results.Narrowing Search ResultsIf you’re overwhelmed with search results, there are several ways to work toward a more useful and workable set of results.
 First, double-check the construction of your search string. If you’ve used a set of quotation marks or a set of parentheses, make sure it’s closed correctly and encloses the intended terms. Make sure that any Boolean operators, like AND or OR, are capitalized.
-Next, scan the first page or two of results and see how you might refine them. Most databases include an “advanced search” screen that allows you to be more specific about what results you want to see. Advanced search capabilities vary from one database to another, but these are a few common options to customize your search:Date: You can choose results published before or after a certain date, or within a certain date range.Item type: You can select results by publication type: for example, only books, only journal articles, or only book reviews.Discipline: In some cases, you can narrow your search to publications in a certain field or discipline.Publication title: You can search only for articles published in a certain journal.Full text: Some databases do not provide full-text access to every article that they include. In these cases, you can usually limit your search so that you see only results where the full text is available. You may choose to find items that include your search terms anywhere in the text, or only those that include your search terms in the title.Language: You can restrict your search to materials in a certain language.
+Next, scan the first page or two of results and see how you might refine them. Most databases include an “advanced search” screen that allows you to be more specific about what results you want to see. Advanced search capabilities vary from one database to another, but these are a few common options to customize your search:
+* Date: You can choose results published before or after a certain date, or within a certain date range.
+* Item type: You can select results by publication type: for example, only books, only journal articles, or only book reviews.
+* Discipline: In some cases, you can narrow your search to publications in a certain field or discipline.
+* Publication title: You can search only for articles published in a certain journal.Full text: Some databases do not provide full-text access to every article that they include. In these cases, you can usually limit your search so that you see only results where the full text is available. You may choose to find items that include your search terms anywhere in the text, or only those that include your search terms in the title.
+* Language: You can restrict your search to materials in a certain language.
+
 Some databases with a broader scope offer the option to restrict your search to peer-reviewed journals only, or may allow you to narrow your search to include only results that list references.
 After you’ve used the advanced search options to narrow down your search, reassess the results and adjust your search string accordingly. Do you keep seeing a term or idea that isn’t relevant to your research? Use the NOT operator to exclude it from your next set of search results. Do you see a term that is useful but isn’t in your search string? Using AND to add it to your search string will narrow down the current set of results.
 You might also reassess the terms you’ve used. Is there a more specific version that’s likely to get you fewer results—and results that are more specific to your topic? A search for “opera singers” yields a lot of results, but a search for the more specific term “mezzo sopranos” brings up a much smaller set. 
