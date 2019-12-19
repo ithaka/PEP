@@ -6,7 +6,7 @@ Think of a scholarly database as a vault that holds thousands upon thousands of 
 
 First, try to match your terms with the language in the sources you’d like to find—that is, think of the terminology that is most likely to be used by scholars writing about your topic. These key words and phrases will help connect you with the most relevant results. Scholarly publications use scholarly, formal language. So if you come up with two equivalent words or phrases, it might help to choose the one that seems more formal and less casual. The formal term influenza brings up more search results than the colloquial term flu. 
 
-![Consilience.jpg](/Users/gwitthuhn/Documents/PEP/site/img/Consilience.jpg.png)
+![Grid Test](img/grid.png)
 
 Next, think of synonyms and related terms that might be used instead of the main terms you’re searching. For example, in a search about seventeenth-century New York City, you might also want to use the search term New Amsterdam, which was the city’s official name at that time. In a search about cooking, you might want to use the related term recipes; it’s not exactly a synonym, but it will yield results that are closely related to your topic. 
 
