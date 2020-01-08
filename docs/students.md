@@ -1,3 +1,11 @@
+# Using the JSTOR Offline Index
+
+
+
+
+
+# Research Basics
+
 ### Formulate a Search Strategy
 
 #### Choosing Search Terms

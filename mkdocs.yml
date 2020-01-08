@@ -4,7 +4,6 @@ use_directory_urls: false
 nav: 
 - Home: index.md
 - About: about.md
-- Installation: installation.md
-- For Instructors and Librarians: instructors.md  
-- For Students: students.md
+- Activities: activities.md  
+- Students: students.md
 - Markdown: markdown.md
