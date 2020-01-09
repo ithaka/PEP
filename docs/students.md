@@ -20,8 +20,6 @@ Think of a scholarly database as a vault that holds thousands upon thousands of 
 
 First, try to match your terms with the language in the sources you’d like to find—that is, think of the terminology that is most likely to be used by scholars writing about your topic. These key words and phrases will help connect you with the most relevant results. Scholarly publications use scholarly, formal language. So if you come up with two equivalent words or phrases, it might help to choose the one that seems more formal and less casual. The formal term influenza brings up more search results than the colloquial term flu. 
 
-![Description of Image](img/IMAGEFILENAME.png)
-
 Next, think of synonyms and related terms that might be used instead of the main terms you’re searching. For example, in a search about seventeenth-century New York City, you might also want to use the search term New Amsterdam, which was the city’s official name at that time. In a search about cooking, you might want to use the related term recipes; it’s not exactly a synonym, but it will yield results that are closely related to your topic. 
 
 #### Putting Terms Together
@@ -148,7 +146,9 @@ To have authority means to be recognized as knowledgeable on a specific topic. T
 * Does the author have qualifications to write on the topic, such as an advanced degree in the field with several years of experience and research on the topic?
 * Does the publication have an author and an editor? The presence of an editor might imply a collection of articles, as opposed to a single piece by a single person. Be sure to note who the piece is actually written by. This should usually be a person in scholarly works with appropriate credentials.
 * Occasionally, an organization will serve as the author. In these cases, make sure that the organization has expertise and credibility in the field. You can usually determine this by reading the organization’s bio, the same way you would read about an author.
-![Take a look at this excerpt from the sustainability journal Consilience: The Journal of Sustainable Development.](img/Consilience.jpg.png)
+
+Take a look at this excerpt from the sustainability journal Consilience: The Journal of Sustainable Development.
+![Journal of Sustainable Development](img/Consilience.jpg.png)
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
 
@@ -159,7 +159,8 @@ It’s important that academic scholarship is presented in an objective manner w
 * Familiar enough with the body of work the article relates to in order to lend credibility to the publication of it
 * Able to make a formal declaration in the work attesting to their neutrality
 
-In this ![view from the American Journal of Nursing website](img/AJN Peer review.png), you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
+![American Journal of Nursing](img/AJN Peer review.png)
+In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
 
 #### Content
 By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:
