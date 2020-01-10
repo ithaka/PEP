@@ -1,8 +1,15 @@
-# Using the JSTOR Offline Index
+#  Introducing the JSTOR Offline Index
 
+![JSTOR Logo](img/jstorLogo.png) 
 
+JSTOR is a digital library with a mission to expand access to scholarly literature and ensure the digital preservation of that literature. The digital library includes content in academic disciplines in the humanities, social sciences, and sciences. More than 11,000 institutions around the world—including colleges and universities, secondary schools, public libraries, and other organizations—currently participate in JSTOR. For over a decade, JSTOR subscribing institutions affiliated with a prison education program have had the option to provide their programs a first generation offline index and browser for searching content on JSTOR (at no additional subscription cost). Through funding from the Andrew W. Mellon Foundation, we have developed a new solution. This solution provides a flexible, offline, searchable index of JSTOR content, in the form of a USB drive or dedicated appliance. The drive (or appliance) includes:
 
-
+* The JSTOR Offline Index
+* Moderation approval tools for print and digital content
+* Tutorials and documentation for students
+  * Submitting a search
+  * Requesting materials
+  * The basics of academic research
 
 # Research Basics
 
@@ -12,9 +19,9 @@ This introductory program was created by JSTOR to help you get familiar with bas
 
 The JSTOR librarians who helped create this content hope you learn from the experience and feel ready to research when you’ve finished this program.
 
-### Formulate a Search Strategy
+## Formulating a Search Strategy
 
-#### Choosing Search Terms
+### Choosing Search Terms
 
 Think of a scholarly database as a vault that holds thousands upon thousands of articles, books, and other sources. Your key to unlock this vault is your search string: the set of words, phrases, and punctuation you enter into a search box to tell the database what you’re looking for. Every database will look and function a little differently, but you can almost always use the same strategies to get good results.
 
@@ -22,19 +29,24 @@ First, try to match your terms with the language in the sources you’d like to 
 
 Next, think of synonyms and related terms that might be used instead of the main terms you’re searching. For example, in a search about seventeenth-century New York City, you might also want to use the search term New Amsterdam, which was the city’s official name at that time. In a search about cooking, you might want to use the related term recipes; it’s not exactly a synonym, but it will yield results that are closely related to your topic. 
 
-#### Putting Terms Together
+![Main Search Box](img/mainSearch.png)
+
+*The main search entry box for the JSTOR Offline Index. Type your search terms here and then click on the magnifying glass to do your first search.*
+
+
+### Putting Terms Together
 
 Once you’ve decided on a set of terms to use, it’s time to begin putting them together. The way you combine your search terms will serve as a set of instructions for the database, telling it what you want to see and what you don’t. 
 
-For more precise results, use quotation marks around multi-word search terms. This is known as a phrase search. It tells the database to retrieve only results where these words are used together in a certain order. If you’re researching the theatrical group Blue Man Group, a key word search for blue man group will retrieve any article where these three words appear, even if they are separated by other words or are out of order. On the other hand, a phrase search for “blue man group” in quotation marks will retrieve only articles where the words appear together in that order. The second group of search results is much smaller and easier to review.
+For more precise results, use quotation marks around multi-word search terms. This is known as a **phrase search**. It tells the database to retrieve only results where these words are used together in a certain order. If you’re researching the theatrical group Blue Man Group, a key word search for blue man group will retrieve any article where these three words appear, even if they are separated by other words or are out of order. On the other hand, a phrase search for “blue man group” in quotation marks will retrieve only articles where the words appear together in that order. The second group of search results is much smaller and easier to review.
 
-#### Boolean Operators
+### Boolean Operators
 
 Consider using special words called Boolean operators: AND, OR, and NOT. These words give the database additional information about how to process a search that uses more than one term. Let’s look at some examples.
 
-- AND tells the database to retrieve all of the results that contain both Term A andTerm B. It narrows the search by leaving out results in which one term, but not the other, is used.
-- OR tells the database to retrieve all of the results that contain either Term A or TermB.It expands the search to include all instances where either term appears. This will be the largest set of results — remember it as “OR means more.”
-- NOT tells the database to include one term but exclude the other. It narrows the search by leaving out any result that contains the second term.
+- **AND** tells the database to retrieve all of the results that contain both Term A andTerm B. It narrows the search by leaving out results in which one term, but not the other, is used.
+- **OR** tells the database to retrieve all of the results that contain either Term A or TermB.It expands the search to include all instances where either term appears. This will be the largest set of results — remember it as “OR means more.”
+- **NOT** tells the database to include one term but exclude the other. It narrows the search by leaving out any result that contains the second term.
 
 A Boolean operator should always appear in all capital letters. This tells the database to use the capitalized word as an instruction, not as a word that is part of your search.
 
@@ -44,7 +56,7 @@ For example, to search for information on bicycle lanes and traffic safety, link
 
 For a more complex search, you can use parentheses to group a set of Boolean operators. The database will perform the commands inside the parentheses first, then process the results. In this example, the search string will find one set of results that use either the term college or the term post-secondary education, find the results that discuss both Texas and Louisiana, and then show only the results that overlap.
 
-#### Assessing Search Results
+### Assessing Search Results
 
 Your next step is to assess your search results and see how they line up with your informational needs. Does the set of search results fit all the criteria of your query?
 
