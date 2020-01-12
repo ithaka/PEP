@@ -54,9 +54,11 @@ You can use Boolean operators not just with single words, but with phrases in qu
 
 For example, to search for information on bicycle lanes and traffic safety, link the two phrases together with AND. 
 
-For a more complex search, you can use parentheses to group a set of Boolean operators. The database will perform the commands inside the parentheses first, then process the results. In this example, the search string will find one set of results that use either the term college or the term post-secondary education, find the results that discuss both Texas and Louisiana, and then show only the results that overlap.
+![Linking Search Phrases with Boolean operators](img/linkedPhraseSearch.png)
 
-### Assessing Search Results
+*Linking together the phrase search "bicycle lanes" with a second phrase search for "traffic safety" through the Boolean operator AND.*
+
+## Assessing Search Results
 
 Your next step is to assess your search results and see how they line up with your informational needs. Does the set of search results fit all the criteria of your query?
 
@@ -66,13 +68,15 @@ You can also choose to display results by relevance. This gives you a quick sens
 
 A search that is too specific may yield few or no results. Try doing your search again with one or more general terms in your search string. When you have a good set of results, narrow your search to full-text articles whenever possible. This will ensure that all of your results are immediately accessible. 
 
-#### Build on Good Sources
+![The Search Results Page](img/searchResults.png)
 
-Once you’ve discovered one or more sources that are a good fit, you can use them as a springboard to find additional content. There are two ways to capitalize on a useful source.
+*The search results page for the JSTOR Offline Index*
 
-First, take a look at the references. This is a good way to find related articles or books. You may also find that the same author has published and cited previous works on the same topic.
+### Build on Good Sources
 
-Second, look at the database record for the source. Many databases assign subject headings to describe the content of an article or book. These terms may be a person’s name, a specialized term, or another word or phrase that explains what the source is about. In JSTOR, these topics are links you can click to launch a search using that term. Clicking on the subject heading will get you a list of other articles and books that share the same subject heading. 
+If your search results contain a promising article, look at the **Topics** under the results page for an article that interests you.  These topics are links you can click to launch a search using that term. Clicking on the topic will get you a list of other articles and books that share that topic.
+
+If you have already received access to a copy of one or more sources that are a good fit, you can also take a look at the references. This is a good way to find related articles or books. You may also find that the same author has published and cited previous works on the same topic.
 
 ### Managing Information Overload
 
@@ -82,13 +86,17 @@ After you feel confident selecting search terms and constructing a search string
 - How to refine your search for a manageable set of relevant results
 - How to document your sources so that they’re easier to access and use
 
-#### Project Planning
+![Many search results](img/searchResultsList.png)
+
+*Receiving too many search results can feel overwhelming. Follow the tips below for getting the most relevant results*
+
+### Keep Project Goals In Mind
 
 Before you begin the search process, be sure to review your project outline. Aligning your search with the project’s requirements will save you time in the long run. For example, if your assignment specifies that you use “recent” or “current” sources, you will probably want to use the advanced search option to narrow the dates on your search. That way, you won’t waste time reviewing resources that aren’t appropriate for your assignment.
 
 Keeping your project outline at the forefront will also help you know when to stop searching for a specific subtopic and move on to other needed information. You’ll be most efficient if you stop when you have enough information to complete your work. 
 
-#### Your Search Results
+### Your Search Results
 
 When you’ve conducted your initial search, take a look at the results to get a sense of how effective your search string is.
 
@@ -96,11 +104,13 @@ First, how many results are there? For example, if your search produces no resul
 
 Next, how relevant do the results seem at a glance? Have you put them in order by relevance? Scan through the results and see what pops out at you. Do they seem too technical, too broad, or just plain irrelevant? Are there terms that appear over and over — and if so, are those terms useful for your topic? 
 
-Think of searching as a process, not an event. It’s pretty unusual to get a perfect, useful, relevant set of results from the very first search string you enter. 
+Think of searching as *a process*, not an event. It’s pretty unusual to get a perfect, useful, relevant set of results from the very first search string you enter. 
 
 Next, you’ll learn how to adjust your search to get a broader or narrower set of results.
 
-#### Narrowing Search Results
+
+
+### Narrowing Search Results
 
 If you’re overwhelmed with search results, there are several ways to work toward a more useful and workable set of results.
 
@@ -112,6 +122,12 @@ Next, scan the first page or two of results and see how you might refine them. M
 * Discipline: In some cases, you can narrow your search to publications in a certain field or discipline.
 * Publication title: You can search only for articles published in a certain journal.Full text: Some databases do not provide full-text access to every article that they include. In these cases, you can usually limit your search so that you see only results where the full text is available. You may choose to find items that include your search terms anywhere in the text, or only those that include your search terms in the title.
 * Language: You can restrict your search to materials in a certain language.
+
+
+
+![Tools for refining search results](img/refineSearch.png)
+
+
 
 Some databases with a broader scope offer the option to restrict your search to peer-reviewed journals only, or may allow you to narrow your search to include only results that list references.
 
@@ -125,7 +141,7 @@ What if you’ve constructed a really solid search string and refined your resul
 
 If you’re using your best search skills and are still flooded with search results, it’s possible that your topic is just too broad.
 
-#### Too Few Results
+### Too Few Results
 
 If your search gives you fewer results than you had hoped or expected, you can make a few simple changes to your search string that will bring you a larger set of results.
 
@@ -139,7 +155,7 @@ To truncate a search term, examine the search term you are using. What other var
 
 On the other hand, be aware that truncating a search term too much may bring in unrelated results. For example, if you are searching for information on staying in hostels, the truncated term host* will also get you results that discuss the unrelated topics of hostesses, hostages, and hostility. Truncating to hostel* will get you a more precise set of results about hostels, hostelry, and hostelers.
 
-### Establishing Credibility
+## Establishing Credibility
 
 A trustworthy source has credibility. When doing research, it’s important to ensure that the sources you select are credible. In this lesson, you will begin learning how to identify scholarly source material for academic research in school. 
 
@@ -147,10 +163,10 @@ There are several ways to identify scholarly source material, and a good place t
 
 These attributes are helpful in interpreting the level of scholarship. In the lesson ahead, we’ll look at sources and point out these attributes so that you can start to identify them on your own.
 
-#### Key Indicators
+### Key Indicators
 An easy way to remember the key indicators of academic scholarship is by using your A-B-Cs: authority, bias, and content. Let’s get started by investigating the topic ofhigh-stakes testing.
 
-#### Authority
+### Authority
 To have authority means to be recognized as knowledgeable on a specific topic. There’s a root word in “authority” that tells you what you’re going to look at first: “author.” When you’re considering a source, try to find the answers to these questions:
 * Is the author or authors clearly identified?
 * Does the author have scholarly credentials, or credentials within the appropriate field of expertise?
@@ -164,7 +180,7 @@ Take a look at this excerpt from the sustainability journal Consilience: The Jou
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
 
-#### Bias
+### Bias
 It’s important that academic scholarship is presented in an objective manner without bias. The peer review system is an established way to identify biases that might appear in scholarly research. In peer review, a work is evaluated by experts and published only if it meets the discipline’s standards. It is also a way to ensure objectivity in assessing an academic article. The peers selected for the review are:
 * In the same field as the author(s)
 * Proven to be objective and independent from the work they are reviewing for publication
@@ -174,7 +190,7 @@ It’s important that academic scholarship is presented in an objective manner w
 ![American Journal of Nursing](img/AJN Peer review.png)
 In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
 
-#### Content
+## Content
 By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:
 * Audience: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?
 * Intent: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?
@@ -195,7 +211,7 @@ What are some words that describe the tone of this sentence? You might say it is
 
 What are some words to describe the tone of this piece? You might say it is conversational, accessible, or straightforward. The casual tone of this writing is one clue that it does not come from a scholarly source.
 
-#### Publisher
+### Publisher
 We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:Does the journal list an editorial board?Is there a logo?Has the journal won any awards? Is it affiliated with a well-known institution?Is the blurb on the journal written in a scholarly manner for an academic audience?
 
 Within a scholarly database listing, you will usually find a link that offers information about a journal. [Here’s an example from Teaching & Learning Inquiry,] published by Indiana University Press. A university affiliation is a good indicator of scholarly content. Notice whether there is a logo displaying the name. Information is included on its mission, editors, and editorial board. The tone is professional and the style is academic. 
@@ -205,7 +221,7 @@ Academic endorsement is an important indicator of scholarship. We’ll explore t
 
 We’ll also tackle the concepts of relevance and currency in scholarship. You’ll learn why they are important, and how they are different.
 
-#### Scan
+### Scan
 No one can be expected to read everything while they’re searching for resources, so it’s important to practice the art of scanning. If there’s an abstract, scan for keywords: words or phrases that relate to your topic and provide clues about the content of the article. Pay attention to the A-B-C clues you see (authority, bias, and content). If there is no abstract, scan for author, publisher, and key words. Key words should not only relate to your topic, but also be of a scholarly nature.
 
 Get into the habit of “talking to the text” as you scan, whether you’re looking at a computer screen or a piece of paper. Highlight important words and phrases, record questions or 24 ideas that come up, and make notes about how this material might connect to other things you know.
@@ -214,12 +230,12 @@ If you were investigating the topic of high-stakes testing, [what would you noti
 * Abstract: If there’s an abstract, read it first, checking for key words and concepts.
 * Scan: Even if there isn’t an abstract, scan for keywords and formal language structure.
 
-#### References: Bibliography
+### References: Bibliography
 Other signs of academic endorsement can be found by examining the work’s bibliography. Review your sources’ reference information to find signs of academic endorsement.
 
 Look at the bibliography: is the article formulated from other scholarship? If there is no bibliography, that could be a sign that a source is not scholarly. 
 
-#### References: Citations
+### References: Citations
 Check for citations within the text of the article. Have the authors backed up their statements with references to other scholarly sources? 
 
 You can see that this author is citing research that supports her statements. This tells you that her assertions are based on study in the field, and it indicates that other scholars share her views. This foundation is a good indicator of scholarly content. If the author provides no citations, it could be a sign that the source is not scholarly.
@@ -228,7 +244,7 @@ In many cases, you can also find out who is citing the source you’re looking a
 
 In this case, a list of articles that have cited the one you’re looking at display when the link is clicked. This tells you that other scholars in the field consider this article a reliable source.
 
-#### Currency
+### Currency
 Once you’ve determined that a work is scholarly, it’s important that you make sure the sources you use are also current and relevant. When you assess the currency of a source, you’re asking, “How new is this information? Has anything changed since this was published?” 
 
 Here are a few clues that can help you decide whether a source is current.
@@ -236,7 +252,7 @@ Here are a few clues that can help you decide whether a source is current.
 * How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.
 * Has the information been revised, updated, or retracted? Is newer information available?Also consider your topic: is information about it still changing or being discovered,such as in the fields of medicine or technology? If so, you may want to look for only very current sources. On the other hand, if you are writing about an event in ancient history, it may be fine to use older sources.
 
-#### Relevance
+### Relevance
 The question of relevance is one that only you can answer: 
 * how useful is a source for your purpose? 
 * Is it written at an appropriate level?
@@ -244,7 +260,7 @@ The question of relevance is one that only you can answer:
 * Does it answer a question or fill a need in your research?
 * Does it add something new?
 
-#### Scholarly vs. Popular Sources
+### Scholarly vs. Popular Sources
 So far, we’ve looked at a variety of different academic journal excerpts from scholarly databases. But what about sources found using Google or other search engines? You can use the principles you’ve learned to evaluate sources found online. Here’s how: Look for publishing information.
 
 [Consider Slate.] It’s got an established publisher, a logo, and an author. What is it missing? Peer review. What about style? It’s in color with an accessible and friendly tone and layout. Does that seem scholarly?
@@ -255,7 +271,7 @@ So far, we’ve looked at a variety of different academic journal excerpts from 
 
 Just because sources are popular doesn’t mean they aren’t accurate or well-written. They usually contain true information and are written in a way that interests and engages a general audience. But because they don’t undergo the same rigorous peer review and editorial process as scholarly articles, they are not always suitable for establishing credibility in your research. They should generally be avoided for academic work.
 
-#### Wikipedia
+### Wikipedia
 [Wikipedia] is not considered a scholarly source for several reasons. Based on all the information we’ve covered, can you name a few?
 * It has no clear author, so there’s no way to assess the author’s credentials.
 * It doesn’t have a publisher or editorial board, and it’s not collected in a scholarly journal or database.
@@ -263,7 +279,10 @@ Just because sources are popular doesn’t mean they aren’t accurate or well-w
 * There is no final or published version that can be cited, since many entries change daily or even hourly.
 * Its intent is to introduce a topic to a general audience, not to address academic or professional peers.
 
-### CITING SCHOLARLY WORK: Creating Citations
+## Requesting Materials
+
+
+## Citing scholarly work in your own writing
 You’re doing research for a paper on youth voting. You come across two articles that provide different numbers for how many young people voted in the most recent election. One source quotes a specific expert and includes a list of citations; the other source says that its numbers come “from a recent poll.” Which one seems like a more trustworthy source? Why?
 
 Citing your sources means that you give credit for the ideas and information you’ve used in your paper. It builds credibility and helps readers understand where your ideas come from. 
@@ -273,19 +292,19 @@ In this lesson, you’ll learn:
 * Where to find the necessary information for a citation
 * How to compose your own citations
 
-#### Why Cite?
+### Why Cite?
 Citing your sources serves you, and it serves your readers. When you provide citations for the work you’ve used in your paper, it gives readers a way to follow up and find more information on a topic. A good citation points your readers directly to the source. 
 
 Using proper citation also gives you credibility as an author. It allows readers to distinguish between your ideas and those of your sources.
 
-#### Citation Styles
+### Citation Styles
 There are a variety of ways to format citations. Citation styles are issued by the major professional organizations in a discipline or field. The citation styles are published in books called style guides. For example, the Modern Language Association, or MLA, has its own citation style that is often used for papers on language, literature, and the humanities. MLA is one of the most common styles used in high school. You may also be asked to use APA style, issued by the American Psychological Association. There are also special citation styles for medicine, legal writing, and journalism that you may encounter in college. If you’re unsure which citation style to use, check your assignment or ask your teacher.
 
 Most citation styles include the same basic pieces of information, but may require that the order or format of those pieces be a little different. For example, some styles use full first names, while others use just a first initial. Some styles capitalize every word of a title, and some capitalize only the first word. Depending on the style, you may use a period after each piece of information, or a comma between some of them. You may need to use a single space, or you may need two spaces. These are small details, but it’s important to pay attention to them as you create your citations. Formatting your citations correctly and consistently tells your readers (and your instructor) that you understand the conventions of academic writing.
 
 [Here, you can see the MLA and APA versions of citations for the same article].
 
-#### Elements of a Citation: Print
+### Elements of a Citation: Print
 Print materials include books, popular magazines, and articles from scholarly journals. A complete citation for a print source will point your readers to the exact source you used — including the correct edition number, page number, or format.
 
 Common elements of a citation include:
@@ -299,26 +318,26 @@ Books also need the place of publication and the name of the publisher. If more 
 
 If you use a library database to download a book or article originally published in print, you must include the name of the database you used, the medium (the web, rather than print), and the date you accessed the material.
 
-#### Collecting Citation Elements
+### Collecting Citation Elements
 So, where do you start finding the elements of a citation? When you’re looking at a book, you can find most or all of these elements at the beginning of the book, on the title page and the copyright page. If you’re looking at a journal article, you can usually find information at the top and bottom of the page, and at the beginning or end of the article. 
 
 But the best time to find and record this information for a book or journal is at the beginning of your research process. When you’re searching a database, you can find a complete citation for each search result. Keep all of this information with your notes for later use. 
 
 Some databases will also generate a citation in your desired format. Also, consider using citation management software to track your sources as you go. Some citation management programs are free, and your school may subscribe to others. Ask your librarian about the best citation manager to use. 
 
-#### Composing a Citation
+### Composing a Citation
 When it’s time to put together your citations, you’ll need the information you’ve gathered about your sources — but you’ll also need information about what is required for a particular citation style. Your library should have a copy of the style guide you need or the online version of the style guide.
 
 Using your style guide as an example, plug in the information from your source material, making sure that all the elements are present. Double-check to be sure you’ve used capital letters, italics, and punctuation exactly as your style guide specifies.
 
-#### Examples: Print and Database Sources
+### Examples: Print and Database Sources
 Now that you know where to find the information needed for a citation and how to compose one, let’s take a look at some examples.
 
 [Here’s the database information for an article on the writing of the Brontë sisters.] This excerpt includes all of the necessary elements of a citation: author, article title, journal title, volume and issue number, publication date, and page numbers.
 
 Now, look at how these elements appear in an MLA and an APA citation. Most of the same elements are present in both citations, but you can see that the citations look different: the pieces are in a different order, some items (like the author’s name) are formatted differently, and different words are capitalized.
 
-### CITING SCHOLARLY WORK: Citing and paraphrasing
+### Citing and paraphrasing a scholarly work
 
 Now that you understand the elements of a citation, it’s time to take a look at how to incorporate citations into the main body of an academic paper. 
 
@@ -327,7 +346,7 @@ In this lesson, you will:
 * Learn the difference between quoting, paraphrasing, and summarizing your sources
 * Learn how to cite sources within the body of your paper
 
-#### When to Cite
+### When to Cite
 When do you need to cite a source? Each time you incorporate someone else’s information or idea into your own work, you must provide a citation. So, even if you are using your own words to describe another person’s idea, it’s still necessary to cite.
 
 It’s not always necessary to cite facts that are broadly known and accepted. These kinds of facts are called “common knowledge.” For example, you don’t need to provide a citation for the statement that Washington, D.C. is the capital of the United States. This is a widely known fact that can be confirmed in a variety of sources, and it’s something that a good part of the population knows. 
@@ -340,7 +359,7 @@ Common knowledge also varies between different groups. Think of your audience an
 
 If you are unsure about whether a citation is necessary, it’s always better to provide one. It’s much better to cite too heavily than to run the risk of plagiarism.
 
-#### Plagiarism
+### Plagiarism
 Plagiarism is the use of another person’s words or ideas without providing proper credit. When you think of the word “plagiarism,” you might think of someone downloading a paper from the Internet or copying a classmate’s work. But plagiarism is often not intentional, and it’s much broader than just copying someone else’s work. It can be as simple as:
 * Failing to include a citation for an idea you’ve restated in your own words
 * Paraphrasing in language that is too close to the original, or
@@ -350,7 +369,7 @@ As a writer, you are responsible for avoiding plagiarism — and there’s reall
 
 Remember: When in doubt, cite. 
 
-#### Quoting, Paraphrasing, and Summarizing
+### Quoting, Paraphrasing, and Summarizing
 There are different ways to use information from your sources in your own writing. 
 
 **Quoting** is the most straightforward: you use another writer’s words exactly as they appear in the source material. When you quote a source, you must enclose the quoted material in quotation marks. This gives readers a visual cue that these are not your own words.
@@ -361,7 +380,7 @@ There are different ways to use information from your sources in your own writin
 
 Whether you’re quoting, paraphrasing, or summarizing information from a source, you must provide a citation.
 
-#### In-Text Citations
+### In-Text Citations
 In general, a citation has two parts: a brief mention of the source within the body of the paper, and a more detailed list at the end of the paper, called a Works Cited page. Here, we’ll be talking about the former type, which are called in-text citations.
 
 In MLA and APA styles, an in-text citation is a brief mention of the source that appears within a set of parentheses. In-text citations follow quotations, paraphrases, and summaries that appear as part of your text. MLA uses the author-page style of citation, which consists of the author’s last name plus the page number where the quote or idea appears in the source material. 
@@ -370,14 +389,14 @@ Sometimes it makes sense to incorporate the author’s name into the sentence it
 
 APA style uses the author-date style rather than author-page, so an APA citation includes the author’s last name and the year of publication. This citation looks slightly different, but it serves the same purpose: it gives the reader the information she needs to find a more detailed citation at the end of the paper.
 
-#### Offset Citations
+### Offset Citations
 Sometimes you will need to use a longer quotation as a part of your work. Rather than being inserted into the rest of the text, longer quotations should be indented to make the distinction clear to the reader. Check your style guide to find the cutoff for when to indent, or offset, a quotation. In MLA style, offset a quotation when it makes up four or more lines of text.
 
 Notice that when you offset a quotation, you don’t use quotation marks around it. In this case, the formatting provides a clue to the reader that this is quoted material.
 
 If the quoted material makes up less than four lines of text, it should appear as part of a normal paragraph, even if multiple sentences are quoted.
 
-### CITING SCHOLARLY WORK: Works cited, bibliographies, and notes
+## Creating your Works Cited or Bibliography page for your research paper
 
 Now that you know how to create citations and how to cite your sources within the body of a paper, it’s time to create the remaining piece of your citation system: a list of complete citations that appears at the end of your paper. 
 
@@ -386,14 +405,14 @@ In this lesson:
 * You’ll learn how Works Cited differs from a bibliography.
 * You’ll also learn how to use notes to provide your readers with additional information.
 
-#### Tracking Your Sources
+### Tracking Your Sources
 Now you’ve learned how to find and collect the elements necessary for a complete citation. Having all of this information handy will make it much simpler to compile your Works Cited page. There are several ways to keep your sources organized as you do your research:
 * Fill out a note card for each source. Each card should include a complete citation for the source, and you can also use it to make notes about how the source is useful for your paper.
 * Create a research log: a word-processing document or spreadsheet that lists each source, along with your notes.
 
 Use whatever method is most efficient for you. If you’re having trouble tracking down a piece of information you need for a citation, ask your teacher or librarian for help.
 
-#### Works Cited
+### Works Cited
 As you know, in-text citations tell the reader which ideas and facts come from your source material. At the end of your paper, you’ll include a comprehensive list of all the sources you’ve cited. In MLA style, this section is called Works Cited. APA style calls it the References section. In this lesson, we’ll use these terms interchangeably.
 
 In MLA and APA style, references are listed alphabetically by author. In other styles that use numeric citation, the list of references will be numbered in the order they’re cited within the text. In both cases, the goal is that readers can see a citation within the text and refer to the Works Cited page to get the full information about the source used.
@@ -409,7 +428,7 @@ To create your Works Cited page, add sources to the page as you cite them. This 
 
 Organize your citations in alphabetical order by the author’s last name. If you’ve cited more than one source from the same author, alphabetize those sources by title. For entries following the first one, you’ll replace the author’s name with three hyphens.
 
-#### Works Cited vs. Bibliography
+### Works Cited vs. Bibliography
 You’ve probably heard the word “bibliography” used to talk about a list of citations. It’s important to note that a bibliography is not the same as a Works Cited page. 
 
 As we’ve discussed, a Works Cited page is a list of the sources cited within the text of your paper, and only those sources. It does not include notes, and it’s formatted as a single alphabetical list. 
@@ -418,7 +437,7 @@ A bibliography is broader and more extensive; it’s a list of every source you 
 
 In academic work in some cases, you may not be asked to prepare a bibliography. If you’re not clear on what your teacher is asking for, be sure to get more detail about what’s expected of you. You don’t want to do the extra work to prepare a bibliography unless it’s required.
 
-#### Endnotes and Footnotes
+### Endnotes and Footnotes
 What if there’s a great article on your topic that you didn’t cite, but you think your readers would be interested in? You can do this by including notes in your paper. Notes are a way to provide additional information and suggestions for further reading. You will see them used in the articles you read in your research. And if you aren’t using them in your writing now, you will use them in college-level work.
 
 A note has two parts: a superscript number within the text of your paper, and a corresponding entry in a numbered list. Within the text, use a superscript number to indicate each note. The text of the notes themselves can appear on a separate page at the end of your paper—these are called endnotes. Or, the notes can appear on the same pages as the superscript numbers—these are called footnotes. MLA style prefers endnotes rather than footnotes.
