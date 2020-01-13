@@ -202,7 +202,7 @@ It’s important that academic scholarship is presented in an objective manner w
 * Able to make a formal declaration in the work attesting to their neutrality
 
 ![American Journal of Nursing](img/AJN Peer review.png)
-In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
+*In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.*
 
 #### Content
 By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:
