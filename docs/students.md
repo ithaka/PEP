@@ -108,36 +108,28 @@ Think of searching as *a process*, not an event. It’s pretty unusual to get a 
 
 Next, you’ll learn how to adjust your search to get a broader or narrower set of results.
 
-
-
 ### Narrowing Search Results
 
 If you’re overwhelmed with search results, there are several ways to work toward a more useful and workable set of results.
 
 First, double-check the construction of your search string. If you’ve used a set of quotation marks or a set of parentheses, make sure it’s closed correctly and encloses the intended terms. Make sure that any Boolean operators, like AND or OR, are capitalized.
 
-Next, scan the first page or two of results and see how you might refine them. Most databases include an “advanced search” screen that allows you to be more specific about what results you want to see. Advanced search capabilities vary from one database to another, but these are a few common options to customize your search:
-* Date: You can choose results published before or after a certain date, or within a certain date range.
-* Item type: You can select results by publication type: for example, only books, only journal articles, or only book reviews.
-* Discipline: In some cases, you can narrow your search to publications in a certain field or discipline.
-* Publication title: You can search only for articles published in a certain journal.Full text: Some databases do not provide full-text access to every article that they include. In these cases, you can usually limit your search so that you see only results where the full text is available. You may choose to find items that include your search terms anywhere in the text, or only those that include your search terms in the title.
-* Language: You can restrict your search to materials in a certain language.
+Next, scan the first page or two of results and see how you might refine them. The JSTOR Offline Index includes options to **Refine Results** that allow you to be more specific about what results you want to see. Here are a few of the options available:
+* **Content Type** You can choose between the type of materials such as between a journal article or a book chapter.
+* **Publication Date** You can select results by a certain date. To look at only the most recent examples, you might only check materials published after 2010.
+* **Discipline** You can narrow your search to publications in a certain field or discipline.
 
 
 
 ![Tools for refining search results](img/refineSearch.png)
 
+*The **Refine Results** pane helps you filter out articles that may not be useful for your research.*
 
-
-Some databases with a broader scope offer the option to restrict your search to peer-reviewed journals only, or may allow you to narrow your search to include only results that list references.
-
-After you’ve used the advanced search options to narrow down your search, reassess the results and adjust your search string accordingly. Do you keep seeing a term or idea that isn’t relevant to your research? Use the NOT operator to exclude it from your next set of search results. Do you see a term that is useful but isn’t in your search string? Using AND to add it to your search string will narrow down the current set of results.
+After you’ve used **Refine Results** to narrow down your search, reassess the results and adjust your search string accordingly. Do you keep seeing a term or idea that isn’t relevant to your research? Use the NOT operator to exclude it from your next set of search results. Do you see a term that is useful but isn’t in your search string? Using AND to add it to your search string will narrow down the current set of results.
 
 You might also reassess the terms you’ve used. Is there a more specific version that’s likely to get you fewer results—and results that are more specific to your topic? A search for “opera singers” yields a lot of results, but a search for the more specific term “mezzo sopranos” brings up a much smaller set. 
 
 Finally, think about adding terms that narrow the search by geography, time, or discipline. A search for surfing will give you a lot of results, probably too many to wade through. But a search about surfing in Kauai, a search about surfing in the 1920s, or a search about the physiology of surfers will give you a much more focused, manageable set of results. 
-
-What if you’ve constructed a really solid search string and refined your results as far as possible, but still have too many results to sift through? This might be a good time to reassess the database you’re using. Is there another that might be better tailored to your topic? 
 
 If you’re using your best search skills and are still flooded with search results, it’s possible that your topic is just too broad.
 
@@ -149,7 +141,7 @@ First, rethink your terminology. If you’ve used a very specialized term, consi
 
 Second, consider minor adjustments to the way your search string is constructed. If you’ve connected two words using AND, think about changing the operator to OR, which will produce a larger set of results. You can also remove one of your search terms to increase the number of results.
 
-Finally, try truncating a search term. Truncating is a way of reducing a word to its most basic part. This allows the database to pull up all of the forms of the word, instead of just the one you’ve entered. Most databases let you truncate using an asterisk. So a search for the truncated term child* will pull up results that use the words child, child’s, children, and children’s—whereas searching for children’s pulls up only the results that use the specific form of the word.
+Finally, try **truncating** a search term. Truncating is a way of reducing a word to its most basic part. This allows the database to pull up all of the forms of the word, instead of just the one you’ve entered. So a search for the truncated term child* will pull up results that use the words child, child’s, children, and children’s—whereas searching for children’s pulls up only the results that use the specific form of the word.
 
 To truncate a search term, examine the search term you are using. What other variations of that word might be used in publications on the topic? Your goal is to reduce the word to its most basic form so that all of its other potential forms will come up in your search results. For example, if you’re looking for articles about how to teach music, use the truncated form teach* to include articles that use the words teacher, teachers, and teaching.
 
@@ -164,9 +156,9 @@ There are several ways to identify scholarly source material, and a good place t
 These attributes are helpful in interpreting the level of scholarship. In the lesson ahead, we’ll look at sources and point out these attributes so that you can start to identify them on your own.
 
 ### Key Indicators
-An easy way to remember the key indicators of academic scholarship is by using your A-B-Cs: authority, bias, and content. Let’s get started by investigating the topic ofhigh-stakes testing.
+An easy way to remember the key indicators of academic scholarship is by using your A-B-Cs: **authority**, **bias**, and **content**. Let’s get started by investigating the topic of high-stakes testing.
 
-### Authority
+#### Authority
 To have authority means to be recognized as knowledgeable on a specific topic. There’s a root word in “authority” that tells you what you’re going to look at first: “author.” When you’re considering a source, try to find the answers to these questions:
 * Is the author or authors clearly identified?
 * Does the author have scholarly credentials, or credentials within the appropriate field of expertise?
@@ -180,7 +172,7 @@ Take a look at this excerpt from the sustainability journal Consilience: The Jou
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
 
-### Bias
+#### Bias
 It’s important that academic scholarship is presented in an objective manner without bias. The peer review system is an established way to identify biases that might appear in scholarly research. In peer review, a work is evaluated by experts and published only if it meets the discipline’s standards. It is also a way to ensure objectivity in assessing an academic article. The peers selected for the review are:
 * In the same field as the author(s)
 * Proven to be objective and independent from the work they are reviewing for publication
@@ -190,17 +182,19 @@ It’s important that academic scholarship is presented in an objective manner w
 ![American Journal of Nursing](img/AJN Peer review.png)
 In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
 
-## Content
+#### Content
 By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:
-* Audience: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?
-* Intent: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?
-* Level: does the article assume some basic knowledge on the readers’ part? Is it written for peers, or to introduce the topic to laypersons?
-* Style: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?
-* Tone: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?
+* **Audience**: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?
+* **Intent**: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?
+* **Level**: does the article assume some basic knowledge on the readers’ part? Is it written for peers, or to introduce the topic to laypersons?
+* **Style**: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?
+* **Tone**: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?
 
-[This excerpt from The Elementary School Journal], provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
+![The Elementary School Journal article](img/ElemSchoolAbstract.png)
 
-[Finally, think about the tone of the abstract.](https://drive.google.com/open?id=1Xe93yb0Rp4tu5HJiE8lYJicqItZt8K3O) Look at this sentence: 
+This excerpt from The Elementary School Journal, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
+
+ Finally, think about the tone of the abstract. Look at this sentence: 
 
 *“Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.”* 
 
@@ -211,17 +205,17 @@ What are some words that describe the tone of this sentence? You might say it is
 
 What are some words to describe the tone of this piece? You might say it is conversational, accessible, or straightforward. The casual tone of this writing is one clue that it does not come from a scholarly source.
 
-### Publisher
+#### Publisher
 We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:Does the journal list an editorial board?Is there a logo?Has the journal won any awards? Is it affiliated with a well-known institution?Is the blurb on the journal written in a scholarly manner for an academic audience?
 
 Within a scholarly database listing, you will usually find a link that offers information about a journal. [Here’s an example from Teaching & Learning Inquiry,] published by Indiana University Press. A university affiliation is a good indicator of scholarly content. Notice whether there is a logo displaying the name. Information is included on its mission, editors, and editorial board. The tone is professional and the style is academic. 
 
-### Additional ways of identifying scholarly sources
+#### Additional ways of identifying scholarly sources
 Academic endorsement is an important indicator of scholarship. We’ll explore the signs of academic endorsement together, and you will learn how to recognize them on your own.
 
 We’ll also tackle the concepts of relevance and currency in scholarship. You’ll learn why they are important, and how they are different.
 
-### Scan
+#### Scan
 No one can be expected to read everything while they’re searching for resources, so it’s important to practice the art of scanning. If there’s an abstract, scan for keywords: words or phrases that relate to your topic and provide clues about the content of the article. Pay attention to the A-B-C clues you see (authority, bias, and content). If there is no abstract, scan for author, publisher, and key words. Key words should not only relate to your topic, but also be of a scholarly nature.
 
 Get into the habit of “talking to the text” as you scan, whether you’re looking at a computer screen or a piece of paper. Highlight important words and phrases, record questions or 24 ideas that come up, and make notes about how this material might connect to other things you know.
@@ -230,12 +224,12 @@ If you were investigating the topic of high-stakes testing, [what would you noti
 * Abstract: If there’s an abstract, read it first, checking for key words and concepts.
 * Scan: Even if there isn’t an abstract, scan for keywords and formal language structure.
 
-### References: Bibliography
+#### References: Bibliography
 Other signs of academic endorsement can be found by examining the work’s bibliography. Review your sources’ reference information to find signs of academic endorsement.
 
 Look at the bibliography: is the article formulated from other scholarship? If there is no bibliography, that could be a sign that a source is not scholarly. 
 
-### References: Citations
+#### References: Citations
 Check for citations within the text of the article. Have the authors backed up their statements with references to other scholarly sources? 
 
 You can see that this author is citing research that supports her statements. This tells you that her assertions are based on study in the field, and it indicates that other scholars share her views. This foundation is a good indicator of scholarly content. If the author provides no citations, it could be a sign that the source is not scholarly.
@@ -244,7 +238,7 @@ In many cases, you can also find out who is citing the source you’re looking a
 
 In this case, a list of articles that have cited the one you’re looking at display when the link is clicked. This tells you that other scholars in the field consider this article a reliable source.
 
-### Currency
+#### Currency
 Once you’ve determined that a work is scholarly, it’s important that you make sure the sources you use are also current and relevant. When you assess the currency of a source, you’re asking, “How new is this information? Has anything changed since this was published?” 
 
 Here are a few clues that can help you decide whether a source is current.
@@ -252,7 +246,7 @@ Here are a few clues that can help you decide whether a source is current.
 * How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.
 * Has the information been revised, updated, or retracted? Is newer information available?Also consider your topic: is information about it still changing or being discovered,such as in the fields of medicine or technology? If so, you may want to look for only very current sources. On the other hand, if you are writing about an event in ancient history, it may be fine to use older sources.
 
-### Relevance
+#### Relevance
 The question of relevance is one that only you can answer: 
 * how useful is a source for your purpose? 
 * Is it written at an appropriate level?
@@ -260,24 +254,17 @@ The question of relevance is one that only you can answer:
 * Does it answer a question or fill a need in your research?
 * Does it add something new?
 
-### Scholarly vs. Popular Sources
+#### Scholarly vs. Popular Sources
 So far, we’ve looked at a variety of different academic journal excerpts from scholarly databases. But what about sources found using Google or other search engines? You can use the principles you’ve learned to evaluate sources found online. Here’s how: Look for publishing information.
 
 [Consider Slate.] It’s got an established publisher, a logo, and an author. What is it missing? Peer review. What about style? It’s in color with an accessible and friendly tone and layout. Does that seem scholarly?
 
-[Look at Time Out From Testing.] Their mission statement says they are “committed to a ‘time-out’ from excessive and high stakes exams.” Can you detect bias in that statement?Some types of information may appear credible but not scholarly. They may be written by thought leaders in the area you’re researching, but the outlet for the article is not itself part of the scholarly record. In other cases, the author has an opinion to express or an agenda to advance, so the information is biased. In certain cases, an article is actually created by a company’s marketing department to get you to buy something. In this case, the piece is not created to forward an academic idea at all. On the web, you may encounter popular sources, and they should generally not be included in your scholarly research. Examples of popular sources include:
+[Look at Time Out From Testing.] Their mission statement says they are “committed to a ‘time-out’ from excessive and high stakes exams.” Can you detect bias in that statement? Some types of information may appear credible but not scholarly. They may be written by thought leaders in the area you’re researching, but the outlet for the article is not itself part of the scholarly record. In other cases, the author has an opinion to express or an agenda to advance, so the information is biased. In certain cases, an article is actually created by a company’s marketing department to get you to buy something. In this case, the piece is not created to forward an academic idea at all. On the web, you may encounter popular sources, and they should generally not be included in your scholarly research. Examples of popular sources include:
+
 * Sponsored pages, often called advertorials
 * Online magazines or blogs
 
 Just because sources are popular doesn’t mean they aren’t accurate or well-written. They usually contain true information and are written in a way that interests and engages a general audience. But because they don’t undergo the same rigorous peer review and editorial process as scholarly articles, they are not always suitable for establishing credibility in your research. They should generally be avoided for academic work.
-
-### Wikipedia
-[Wikipedia] is not considered a scholarly source for several reasons. Based on all the information we’ve covered, can you name a few?
-* It has no clear author, so there’s no way to assess the author’s credentials.
-* It doesn’t have a publisher or editorial board, and it’s not collected in a scholarly journal or database.
-* Though many editors collaborate on its records, there is no peer review or formal verification process.
-* There is no final or published version that can be cited, since many entries change daily or even hourly.
-* Its intent is to introduce a topic to a general audience, not to address academic or professional peers.
 
 ## Requesting Materials
 
