@@ -147,9 +147,31 @@ To truncate a search term, examine the search term you are using. What other var
 
 On the other hand, be aware that truncating a search term too much may bring in unrelated results. For example, if you are searching for information on staying in hostels, the truncated term host* will also get you results that discuss the unrelated topics of hostesses, hostages, and hostility. Truncating to hostel* will get you a more precise set of results about hostels, hostelry, and hostelers.
 
-## Establishing Credibility
+## Requesting Materials
 
-A trustworthy source has credibility. When doing research, it’s important to ensure that the sources you select are credible. In this lesson, you will begin learning how to identify scholarly source material for academic research in school. 
+The JSTOR Offline Index makes requesting materials simple. During the search process, you may select the articles you would like by clicking "Request this." The button will turn blue and the text will change to "Added to cart" to show you've selected the materials. Continue requesting items until you're satisfied with all of your selections. 
+
+![Clicking the "Request this" button](img/requestThis.gif)
+
+*The "Request this" button is located next to every search result*
+
+If you would like to view the materials you've requested and/or cancel some materials, you can do so by clicking the "Your requests" button at the top of the search results page. 
+
+![The "Your requests" button](img/cartRequestButton.png)
+
+*The "Your requests" button will display the items you have requested so far.* 
+
+### Submitting your requests
+
+The "Your requests" button also lets you submit your requests for retrieval. When you're ready to submit a request, make sure to type your name into the field at the top under "Student Name." You may also include any notes about your request that could be useful to your librarian that will be retrieving the materials. There are also options to print the list ("Print this list"), download a copy of it in a text file (Download list (.csv), and submit requests electronically ("Submit Requests.") Depending on your institution, you may print the list or submit it electronically. If you're not sure which method to use, ask your teacher or supervisor.
+
+![Submitting your requests screen](img/submitRequestsmenu.png)
+
+*You may print out a list of your requests for your librarian, download an electronic file copy (.csv), or submit your requests electronically.*
+
+## Assessing Your Sources
+
+Once you have received your research materials, it is important to assess whether they are trustworthy and credible. This section describes how to identify scholarly source material for academic research in school. 
 
 There are several ways to identify scholarly source material, and a good place to start is by examining prospective sources for certain academic attributes. You can think of them as the A-B-Cs of scholarly sources.
 
@@ -196,19 +218,15 @@ This excerpt from The Elementary School Journal, provides information on the sou
 
  Finally, think about the tone of the abstract. Look at this sentence: 
 
-*“Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.”* 
+> Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.
 
 What are some words that describe the tone of this sentence? You might say it is complex, formal, or academic.
 
-[Now, look at this excerpt from another source on the topic of teaching science.] 
-*“Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!”* 
+Now, look at this excerpt from another source on the topic of teaching science:
+
+> Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!”
 
 What are some words to describe the tone of this piece? You might say it is conversational, accessible, or straightforward. The casual tone of this writing is one clue that it does not come from a scholarly source.
-
-#### Publisher
-We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:Does the journal list an editorial board?Is there a logo?Has the journal won any awards? Is it affiliated with a well-known institution?Is the blurb on the journal written in a scholarly manner for an academic audience?
-
-Within a scholarly database listing, you will usually find a link that offers information about a journal. [Here’s an example from Teaching & Learning Inquiry,] published by Indiana University Press. A university affiliation is a good indicator of scholarly content. Notice whether there is a logo displaying the name. Information is included on its mission, editors, and editorial board. The tone is professional and the style is academic. 
 
 #### Additional ways of identifying scholarly sources
 Academic endorsement is an important indicator of scholarship. We’ll explore the signs of academic endorsement together, and you will learn how to recognize them on your own.
@@ -237,36 +255,6 @@ You can see that this author is citing research that supports her statements. Th
 In many cases, you can also find out who is citing the source you’re looking at. If other scholars are using it as a source in their own research, that could be a sign of a well-respected scholarly source. This is called a “cited by search” or a “reverse citation search.” Many databases provide a link to this search from an article’s citation page. 
 
 In this case, a list of articles that have cited the one you’re looking at display when the link is clicked. This tells you that other scholars in the field consider this article a reliable source.
-
-#### Currency
-Once you’ve determined that a work is scholarly, it’s important that you make sure the sources you use are also current and relevant. When you assess the currency of a source, you’re asking, “How new is this information? Has anything changed since this was published?” 
-
-Here are a few clues that can help you decide whether a source is current.
-* Publication or revision date: does the source have one? If not, you really have no way to tell whether it’s outdated. A scholarly source should always include a publication date.
-* How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.
-* Has the information been revised, updated, or retracted? Is newer information available?Also consider your topic: is information about it still changing or being discovered,such as in the fields of medicine or technology? If so, you may want to look for only very current sources. On the other hand, if you are writing about an event in ancient history, it may be fine to use older sources.
-
-#### Relevance
-The question of relevance is one that only you can answer: 
-* how useful is a source for your purpose? 
-* Is it written at an appropriate level?
-* Is it too broad or too specific? 
-* Does it answer a question or fill a need in your research?
-* Does it add something new?
-
-#### Scholarly vs. Popular Sources
-So far, we’ve looked at a variety of different academic journal excerpts from scholarly databases. But what about sources found using Google or other search engines? You can use the principles you’ve learned to evaluate sources found online. Here’s how: Look for publishing information.
-
-[Consider Slate.] It’s got an established publisher, a logo, and an author. What is it missing? Peer review. What about style? It’s in color with an accessible and friendly tone and layout. Does that seem scholarly?
-
-[Look at Time Out From Testing.] Their mission statement says they are “committed to a ‘time-out’ from excessive and high stakes exams.” Can you detect bias in that statement? Some types of information may appear credible but not scholarly. They may be written by thought leaders in the area you’re researching, but the outlet for the article is not itself part of the scholarly record. In other cases, the author has an opinion to express or an agenda to advance, so the information is biased. In certain cases, an article is actually created by a company’s marketing department to get you to buy something. In this case, the piece is not created to forward an academic idea at all. On the web, you may encounter popular sources, and they should generally not be included in your scholarly research. Examples of popular sources include:
-
-* Sponsored pages, often called advertorials
-* Online magazines or blogs
-
-Just because sources are popular doesn’t mean they aren’t accurate or well-written. They usually contain true information and are written in a way that interests and engages a general audience. But because they don’t undergo the same rigorous peer review and editorial process as scholarly articles, they are not always suitable for establishing credibility in your research. They should generally be avoided for academic work.
-
-## Requesting Materials
 
 
 ## Citing scholarly work in your own writing
