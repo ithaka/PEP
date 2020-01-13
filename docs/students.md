@@ -165,7 +165,7 @@ If you would like to view the materials you've requested and/or cancel some mate
 
 The "Your requests" button also lets you submit your requests for retrieval. When you're ready to submit a request, make sure to type your name into the field at the top under "Student Name." You may also include any notes about your request that could be useful to your librarian that will be retrieving the materials. There are also options to print the list ("Print this list"), download a copy of it in a text file (Download list (.csv), and submit requests electronically ("Submit Requests.") Depending on your institution, you may print the list or submit it electronically. If you're not sure which method to use, ask your teacher or supervisor.
 
-![Submitting your requests screen](img/submitRequestsmenu.png)
+![Submitting your requests screen](img/submitRequestsMenu.png)
 
 *You may print out a list of your requests for your librarian, download an electronic file copy (.csv), or submit your requests electronically.*
 
