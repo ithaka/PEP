@@ -11,7 +11,75 @@ JSTOR is a digital library with a mission to expand access to scholarly literatu
   * Requesting materials
   * The basics of academic research
 
-# Research Basics
+# What is JSTOR?
+JSTOR is a digital library of academic journals and books. JSTOR helps people discover, use, and build upon a wide range of content through a powerful research, and preserves this content for future generations.  The content in JSTOR is interdisciplinary, scholarly, and peer-reviewed (for most journal and ebook content). You can learn more about what peer-reviewed means in the Research Basics course included on this drive.
+
+## What's in JSTOR
+JSTOR contains more than 2,300 journals from 1,000 publishers, with publication dates ranging from 1665 to 2015 (for certain titles). Journals are available in more than 60 disciplines in the humanities, social sciences, and sciences and mathematics. There are also than 70,000 ebooks (shown in your search results as book chapters) from academic publishers.
+
+# How to use the JSTOR index
+JSTOR supports full-text keyword searching across all of the content on this index. JSTOR generally includes all the content from articles, books, and pamphlets, cover to cover. This makes it possible to search front matter and back matter, letters to the editor, advertisements, and other types of material along with scholarly articles and book chapters. 
+
+## Search JSTOR
+The search form appears on the main page and also at the top of most content pages on the site. You can type any search terms into box and JSTOR will search for those terms across all of the content on the index.
+
+Here are a few things you can do to easily improve your search results:
+
+Place words within quotation marks to search for exact phrases (“to be or not to be”).
+Use Boolean operators to search for alternate terms (microcredit OR microfinance).
+Use ti: to search for the title of an article or book (ti:"body ritual among the nacirema")
+While we call the simple search form a "Basic Search," you can perform fairly complex queries with it using special codes and Boolean operators. These options are explained in more detail below.
+
+### Combining Search Terms & Boolean Logic
+You may combine search terms and fields using AND, OR, and NOT (Boolean logic).
+
+AND: When you combine search terms with AND in a search, your results contain everything in which both terms appear. Combining search terms makes your search results more precise. You can explicitly denote AND in the following ways: cat AND dog, cat && dog, +cat +dog, (cat dog)
+
+OR: Using OR between search terms allows to you find all items that contain either term. Using OR will search for items that contain either the word "cat", the word "dog", or both. For example: cat OR dog
+
+NOT: Searches using NOT will only find items that do not contain the search term following it. NOT must be capitalized. To find all items with the word cat that do not contain the word dog, search for: cat NOT dog, cat -dog (Be sure to include a space before the dash, but not after). 
+
+#### Grouping Combined Search Terms
+
+Parentheses allow you to determine the order in which terms are combined. The search "currency reform" AND (russia OR "soviet union") will search for items that contain the phrase currency reform and that contain either russia or soviet union. Without grouping parentheses, the search is interpreted as "currency reform" AND russia OR "soviet union," which returns items containing either both currency reform and russia or containing soviet union. By using parentheses, you may control the grouping of search terms.
+
+##### Additional examples:
+
+* (finch OR sparrow) AND exotic will search for items that contain the word exotic and either the word finch or the word sparrow
+* (birds OR butterflies) NOT sparrow will search for items that contain either the word birds or butterflies and do not contain the word sparrow
+* birds NOT (sparrow AND robin) will search for items that contain the word birds but do not contain both the words sparrow and robin
+* birds NOT (sparrow OR robin) will search for items that contain the word birds but do not contain either the word sparrow or the word robin
+
+### Searching for an exact phrase
+If you want to include more than one term in a field search, use parentheses () to enclose your search terms, or quotation marks (" ") to search for an exact phrase. The example above ("american revolution") searches for the exact phrase "american revolution" rather than treating it as a phrase search (american AND revolution).
+
+Some other examples:
+
+* ti:cat dog will find the word cat in the item title field and the word dog in any field  
+* ti:(cat dog) will find the words cat and dog in the item title field in any order 
+* ti:"color purple" will find the exact phrase color purple in the item title field
+* ti:(peacekeeping AND "united nations") will find the word peacekeeping and the phrase united nations in the item title field
+
+### Searching for Multiple Spellings of a Word
+Using the tilde symbol: You can find words with spellings similar to your search term by using the tilde (~) symbol at the end of a search term. For example, ti:dostoyevsky~ helps find items with dostoyevsky in the item title field, as well as variant spellings like dostoevsky, dostoievski, dostoevsky, dostoyevski, dostoevskii, dostoevski, etc. Note: This way of searching encompasses a very large number of words. Narrowing this kind of search to the item title or another field is recommended. The first letter always remains the same.
+
+Wildcards: Wildcards take the place of one or more characters in a search term. A question mark is used for single character searching. An asterisk is used for multiple character searching. Wildcards are used to search for alternate spellings and variations on a root word. Wildcard characters cannot be used in place of the first letter of a word or within an exact phrase search. For example:
+
+wom?n finds the words woman, women, womyn,
+bird* finds bird, birding, birdman, birds, and other words that start with bird
+organi?ation finds organization or organisation
+behavior* searches for behavior, behavioral, behaviorist, behaviorism, or behaviorally
+
+You can combine search terms containing wild cards (wom?n AND "science education") and they may be used in a field search: au:sm?th or ti:shakespeare*
+
+### Search relevance
+Relevance on JSTOR is a combination of many things. Key elements include:
+
+More unique terms in the text result in higher scores when searches contain those terms. For example, the keyword “epistemology" gets a greater boost than “university” because it is less common.
+Phrase matches are boosted higher than just keyword matches. A search for "the quick brown fox" will assign higher relevance to a document containing the exact words "the quick brown fox" than a document containing "the brown fox is quick."
+More recent content is given a slight boost.
+
+# Research Basics: an offline course for learning about academic research
 
 How do you think about research? Where do you start? What do you do? How do you use it? Don’t worry, the Research Basics content below can help you get a handle on your research process.
 
