@@ -1,18 +1,9 @@
-#  Introducing the JSTOR Offline Index
+#  About the JSTOR Offline Index
 
-![JSTOR Logo](img/jstorLogo.png) 
-
-JSTOR is a digital library with a mission to expand access to scholarly literature and ensure the digital preservation of that literature. The digital library includes content in academic disciplines in the humanities, social sciences, and sciences. More than 11,000 institutions around the world—including colleges and universities, secondary schools, public libraries, and other organizations—currently participate in JSTOR. For over a decade, JSTOR subscribing institutions affiliated with a prison education program have had the option to provide their programs a first generation offline index and browser for searching content on JSTOR (at no additional subscription cost). Through funding from the Andrew W. Mellon Foundation, we have developed a new solution. This solution provides a flexible, offline, searchable index of JSTOR content, in the form of a USB drive or dedicated appliance. The drive (or appliance) includes:
-
-* The JSTOR Offline Index
-* Moderation approval tools for print and digital content
-* Tutorials and documentation for students
-  * Submitting a search
-  * Requesting materials
-  * The basics of academic research
+For over a decade, JSTOR subscribing institutions affiliated with a prison education program have had the option to provide their programs a first generation offline index and browser for searching content on JSTOR (at no additional subscription cost). Through funding from the Andrew W. Mellon Foundation, we have developed a new solution. This solution provides a flexible, offline, searchable index of JSTOR content, in the form of a USB drive or dedicated appliance. 
 
 # What is JSTOR?
-JSTOR is a digital library of academic journals and books. JSTOR helps people discover, use, and build upon a wide range of content through a powerful research, and preserves this content for future generations.  The content in JSTOR is interdisciplinary, scholarly, and peer-reviewed (for most journal and ebook content). You can learn more about what peer-reviewed means in the Research Basics course included on this drive.
+JSTOR is a digital library of academic journals and books. More than 11,000 institutions around the world—including colleges and universities, secondary schools, public libraries, and other organizations—currently participate in JSTOR. JSTOR helps people discover, use, and build upon a wide range of content through a powerful research, and preserves this content for future generations.  The content in JSTOR is interdisciplinary, scholarly, and peer-reviewed (for most journal and ebook content). You can learn more about what peer-reviewed means in the Research Basics course included on this drive.
 
 ## What's in JSTOR
 JSTOR contains more than 2,300 journals from 1,000 publishers, with publication dates ranging from 1665 to 2015 (for certain titles). Journals are available in more than 60 disciplines in the humanities, social sciences, and sciences and mathematics. There are also than 70,000 ebooks (shown in your search results as book chapters) from academic publishers.
@@ -21,14 +12,19 @@ JSTOR contains more than 2,300 journals from 1,000 publishers, with publication 
 JSTOR supports full-text keyword searching across all of the content on this index. JSTOR generally includes all the content from articles, books, and pamphlets, cover to cover. This makes it possible to search front matter and back matter, letters to the editor, advertisements, and other types of material along with scholarly articles and book chapters. 
 
 ## Search JSTOR
-The search form appears on the main page and also at the top of most content pages on the site. You can type any search terms into box and JSTOR will search for those terms across all of the content on the index.
+The search form appears on the main page and also at the top of most content pages. You can type any search terms into the box and JSTOR will search for those terms across all of the content on the index.
 
 Here are a few things you can do to easily improve your search results:
 
-Place words within quotation marks to search for exact phrases (“to be or not to be”).
-Use Boolean operators to search for alternate terms (microcredit OR microfinance).
-Use ti: to search for the title of an article or book (ti:"body ritual among the nacirema")
-While we call the simple search form a "Basic Search," you can perform fairly complex queries with it using special codes and Boolean operators. These options are explained in more detail below.
+* Place words within quotation marks to search for exact phrases (“to be or not to be”).
+* Use Boolean operators to search for alternate terms (microcredit OR microfinance).
+* Use ti: to search for the title of an article or book (ti:"body ritual among the nacirema")
+
+While we call the simple search box a "Basic Search," you can perform fairly complex queries with it using special codes and Boolean operators. These options are explained in more detail below.
+
+![Main Search Box](img/mainSearch.png)
+
+*The main search entry box for the JSTOR Offline Index. Type your search terms here and then click on the magnifying glass to do your first search.*
 
 ### Combining Search Terms & Boolean Logic
 You may combine search terms and fields using AND, OR, and NOT (Boolean logic).
@@ -72,12 +68,92 @@ behavior* searches for behavior, behavioral, behaviorist, behaviorism, or behavi
 
 You can combine search terms containing wild cards (wom?n AND "science education") and they may be used in a field search: au:sm?th or ti:shakespeare*
 
-### Search relevance
+### Proximity searching
+JSTOR search allows you to find terms that are within a set number of words of each other using the tilde (~) symbol. In this example ("debt forgiveness"~10), you will only get results with the terms debt and forgiveness within ten words of each other. You can replace "10" with a different number of words.
+
+### Boosting term relevance
+You may increase the importance of any term in your search by using the caret (^) symbol followed by a number that represents the rise in relevance. In the example above (cat^7 dog), an occurrence of the word cat in an item is seven times more important than the word dog.
+
+### Using field abbreviations
+You can narrow search results to a variety of item or journal information. This is possible because JSTOR uses fields for categorization of metadata. Each field is represented in a search by its abbreviation. The example above (au:smith) will find all items for which Smith is listed as an author. Appending ty:fla to a search ("great gatsby" ty:fla) will limit a search to full-length articles, and ty:brv will limit a search to book reviews. 
+
+Other frequently used field abbreviations are:
+| Code        | Returns results from:          | Example  |
+| ------------- |:-------------:| -----:|
+| jo:     | journal title field | jo:econometrica |
+| ta:      | Article title field (does not search books title field)      |   ta:modernism |
+| ab: | Item abstract field (please note that only about 10% of articles on JSTOR include abstracts)
+
+      |    ab:microfinance |
+| ca: | Illustration caption field      |    ca:rembrandt |
+| vo: | Journal Volume field      |    vo:134 |
+
+Other less commonly used field abbreviations include:
+
+cty:(book) = book
+cty:pamphlet = pamphlet
+rt: title of a reviewed work
+so: or jo: journal title
+no: issue or number
+sn: or in: International Standard Serials Number (ISSN)
+
+### Limiting a search to content in a specific language
+JSTOR uses the Library of Congress's three letter MARC language codes in our metadata. You can append these codes to a search to limit the results to content in a specific language. An example: camus la:fre
+
+la:ara = Arabic
+la:chi = Chinese
+la:dut = Dutch
+la:eng = English
+la:fre = French
+la:ger = German
+la:gre = Greek Modern
+la:heb = Hebrew
+la:ita = Italian
+la:jpn = Japanese
+la:lat = Latin
+la:por = Portuguese
+la:rus = Russian
+la:spa = Spanish
+la:swe = Swedish
+la:tur = Turkish
+
+### Understanding your search results
+
+#### Search relevance
 Relevance on JSTOR is a combination of many things. Key elements include:
 
 More unique terms in the text result in higher scores when searches contain those terms. For example, the keyword “epistemology" gets a greater boost than “university” because it is less common.
 Phrase matches are boosted higher than just keyword matches. A search for "the quick brown fox" will assign higher relevance to a document containing the exact words "the quick brown fox" than a document containing "the brown fox is quick."
 More recent content is given a slight boost.
+
+#### About "recent" content on JSTOR
+Content on JSTOR is subject to what is call the "moving wall." The Moving Wall embargo refers to the gap of content between the archival (or past) and current (more recent) issues of a journal. The Moving Wall delay is set by a journal’s publisher and ranges from 0 to 10 years, although the majority of journals in the JSTOR archive have a Moving Wall delay of 3 to 5 years.
+
+The Wall resets, or moves forward, after a complete year, every year in early January. This is when another year of content is added into the JSTOR archive. The Moving Wall calculation does not include the current year. 
+
+So in 2019 for a journal with a Moving Wall delay set to 5 years, archival content goes up to 2013. (5 years from the previously completed year, which would be 2018). This is why you don't see articles from last year on the index.
+
+### Requesting Materials
+
+The JSTOR Offline Index makes requesting materials simple. During the search process, you may select the articles you would like by clicking "Request this." The button will turn blue and the text will change to "Added to cart" to show you've selected the materials. Continue requesting items until you're satisfied with all of your selections. 
+
+![Clicking the "Request this" button](img/requestThis.gif)
+
+*The "Request this" button is located next to every search result*
+
+If you would like to view the materials you've requested and/or cancel some materials, you can do so by clicking the "Your requests" button at the top of the search results page. 
+
+![The "Your requests" button](img/cartRequestButton.png)
+
+*The "Your requests" button will display the items you have requested so far.* 
+
+### Submitting your requests
+
+The "Your requests" button also lets you submit your requests for retrieval. When you're ready to submit a request, make sure to type your name into the field at the top under "Student Name." You may also include any notes about your request that could be useful to your librarian that will be retrieving the materials. There are also options to print the list ("Print this list"), download a copy of it in a text file (Download list (.csv), and submit requests electronically ("Submit Requests.") Depending on your institution, you may print the list or submit it electronically. If you're not sure which method to use, ask your teacher or supervisor.
+
+![Submitting your requests screen](img/submitRequestsMenu.png)
+
+*You may print out a list of your requests for your librarian, download an electronic file copy (.csv), or submit your requests electronically.*
 
 # Research Basics: an offline course for learning about academic research
 
@@ -96,11 +172,6 @@ Think of a scholarly database as a vault that holds thousands upon thousands of 
 First, try to match your terms with the language in the sources you’d like to find—that is, think of the terminology that is most likely to be used by scholars writing about your topic. These key words and phrases will help connect you with the most relevant results. Scholarly publications use scholarly, formal language. So if you come up with two equivalent words or phrases, it might help to choose the one that seems more formal and less casual. The formal term influenza brings up more search results than the colloquial term flu. 
 
 Next, think of synonyms and related terms that might be used instead of the main terms you’re searching. For example, in a search about seventeenth-century New York City, you might also want to use the search term New Amsterdam, which was the city’s official name at that time. In a search about cooking, you might want to use the related term recipes; it’s not exactly a synonym, but it will yield results that are closely related to your topic. 
-
-![Main Search Box](img/mainSearch.png)
-
-*The main search entry box for the JSTOR Offline Index. Type your search terms here and then click on the magnifying glass to do your first search.*
-
 
 ### Putting Terms Together
 
@@ -142,8 +213,6 @@ A search that is too specific may yield few or no results. Try doing your search
 
 ### Build on Good Sources
 
-If your search results contain a promising article, look at the **Topics** under the results page for an article that interests you.  These topics are links you can click to launch a search using that term. Clicking on the topic will get you a list of other articles and books that share that topic.
-
 If you have already received access to a copy of one or more sources that are a good fit, you can also take a look at the references. This is a good way to find related articles or books. You may also find that the same author has published and cited previous works on the same topic.
 
 ### Managing Information Overload
@@ -160,7 +229,7 @@ After you feel confident selecting search terms and constructing a search string
 
 ### Keep Project Goals In Mind
 
-Before you begin the search process, be sure to review your project outline. Aligning your search with the project’s requirements will save you time in the long run. For example, if your assignment specifies that you use “recent” or “current” sources, you will probably want to use the advanced search option to narrow the dates on your search. That way, you won’t waste time reviewing resources that aren’t appropriate for your assignment.
+Before you begin the search process, be sure to review your project outline. Aligning your search with the project’s requirements will save you time in the long run. For example, if your assignment specifies that you use “recent” or “current” sources, you will probably want to narrow the dates on your search. That way, you won’t waste time reviewing resources that aren’t appropriate for your assignment.
 
 Keeping your project outline at the forefront will also help you know when to stop searching for a specific subtopic and move on to other needed information. You’ll be most efficient if you stop when you have enough information to complete your work. 
 
@@ -168,9 +237,9 @@ Keeping your project outline at the forefront will also help you know when to st
 
 When you’ve conducted your initial search, take a look at the results to get a sense of how effective your search string is.
 
-First, how many results are there? For example, if your search produces no results, or very few results, that may not be enough material for you to work with. With such a small set of results, you should also consider the possibility that you might be excluding some useful sources. If your search produces 15,000 results, on the other hand, it’s not realistic to think you’ll be able to review all of them to find the useful ones.
+_First, how many results are there?_ For example, if your search produces no results, or very few results, that may not be enough material for you to work with. With such a small set of results, you should also consider the possibility that you might be excluding some useful sources. If your search produces 15,000 results, on the other hand, it’s not realistic to think you’ll be able to review all of them to find the useful ones.
 
-Next, how relevant do the results seem at a glance? Have you put them in order by relevance? Scan through the results and see what pops out at you. Do they seem too technical, too broad, or just plain irrelevant? Are there terms that appear over and over — and if so, are those terms useful for your topic? 
+_Next, how relevant do the results seem at a glance?_ Have you put them in order by relevance? Scan through the results and see what pops out at you. Do they seem too technical, too broad, or just plain irrelevant? Are there terms that appear over and over — and if so, are those terms useful for your topic? 
 
 Think of searching as *a process*, not an event. It’s pretty unusual to get a perfect, useful, relevant set of results from the very first search string you enter. 
 
@@ -187,8 +256,6 @@ Next, scan the first page or two of results and see how you might refine them. T
 * **Publication Date** You can select results by a certain date. To look at only the most recent examples, you might only check materials published after 2010.
 * **Discipline** You can narrow your search to publications in a certain field or discipline.
 
-
-
 ![Tools for refining search results](img/refineSearch.png)
 
 *The **Refine Results** pane helps you filter out articles that may not be useful for your research.*
@@ -197,7 +264,7 @@ After you’ve used **Refine Results** to narrow down your search, reassess the 
 
 You might also reassess the terms you’ve used. Is there a more specific version that’s likely to get you fewer results—and results that are more specific to your topic? A search for “opera singers” yields a lot of results, but a search for the more specific term “mezzo sopranos” brings up a much smaller set. 
 
-Finally, think about adding terms that narrow the search by geography, time, or discipline. A search for surfing will give you a lot of results, probably too many to wade through. But a search about surfing in Kauai, a search about surfing in the 1920s, or a search about the physiology of surfers will give you a much more focused, manageable set of results. 
+Finally, think about adding terms that narrow the search by geography, time, or discipline. A search for surfing will give you a lot of results, probably too many to wade through. But, a search about surfing in Kauai, a search about surfing in the 1920s, or a search about the physiology of surfers will give you a much more focused, manageable set of results. 
 
 If you’re using your best search skills and are still flooded with search results, it’s possible that your topic is just too broad.
 
@@ -215,31 +282,9 @@ To truncate a search term, examine the search term you are using. What other var
 
 On the other hand, be aware that truncating a search term too much may bring in unrelated results. For example, if you are searching for information on staying in hostels, the truncated term host* will also get you results that discuss the unrelated topics of hostesses, hostages, and hostility. Truncating to hostel* will get you a more precise set of results about hostels, hostelry, and hostelers.
 
-## Requesting Materials
-
-The JSTOR Offline Index makes requesting materials simple. During the search process, you may select the articles you would like by clicking "Request this." The button will turn blue and the text will change to "Added to cart" to show you've selected the materials. Continue requesting items until you're satisfied with all of your selections. 
-
-![Clicking the "Request this" button](img/requestThis.gif)
-
-*The "Request this" button is located next to every search result*
-
-If you would like to view the materials you've requested and/or cancel some materials, you can do so by clicking the "Your requests" button at the top of the search results page. 
-
-![The "Your requests" button](img/cartRequestButton.png)
-
-*The "Your requests" button will display the items you have requested so far.* 
-
-### Submitting your requests
-
-The "Your requests" button also lets you submit your requests for retrieval. When you're ready to submit a request, make sure to type your name into the field at the top under "Student Name." You may also include any notes about your request that could be useful to your librarian that will be retrieving the materials. There are also options to print the list ("Print this list"), download a copy of it in a text file (Download list (.csv), and submit requests electronically ("Submit Requests.") Depending on your institution, you may print the list or submit it electronically. If you're not sure which method to use, ask your teacher or supervisor.
-
-![Submitting your requests screen](img/submitRequestsMenu.png)
-
-*You may print out a list of your requests for your librarian, download an electronic file copy (.csv), or submit your requests electronically.*
-
 ## Assessing Your Sources
 
-Once you have received your research materials, it is important to assess whether they are trustworthy and credible. This section describes how to identify scholarly source material for academic research in school. 
+Once you have received your research materials, it is important to assess whether they are trustworthy and credible. This section describes how to identify scholarly source material for academic research. 
 
 There are several ways to identify scholarly source material, and a good place to start is by examining prospective sources for certain academic attributes. You can think of them as the A-B-Cs of scholarly sources.
 
@@ -259,6 +304,7 @@ To have authority means to be recognized as knowledgeable on a specific topic. T
 
 Take a look at this excerpt from the sustainability journal Consilience: The Journal of Sustainable Development.
 ![Journal of Sustainable Development](img/Consilience.jpg.png)
+*Page from the Consilience: Journal of Sustainable Development to demonstrate authoship.*
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
 
@@ -269,9 +315,10 @@ It’s important that academic scholarship is presented in an objective manner w
 * Familiar enough with the body of work the article relates to in order to lend credibility to the publication of it
 * Able to make a formal declaration in the work attesting to their neutrality
 
-![American Journal of Nursing](img/AJN Peer review.png)
+In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
 
-In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.*
+![American Journal of Nursing](img/AJN Peer review.png)
+*American Journal of Nursing peer review process.*
 
 #### Content
 By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:
@@ -281,19 +328,20 @@ By examining the content, you can determine an article’s suitability for schol
 * **Style**: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?
 * **Tone**: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?
 
-![The Elementary School Journal article](img/ElemSchoolAbstract.png)
-
 This excerpt from The Elementary School Journal, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
+
+![Elementary School Journal](img/Elem School Abstract.png)
+*The Elementary School Journal page excerpt demonstrating source credibility.*
 
  Finally, think about the tone of the abstract. Look at this sentence: 
 
-> Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.
+*Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.*
 
 What are some words that describe the tone of this sentence? You might say it is complex, formal, or academic.
 
 Now, look at this excerpt from another source on the topic of teaching science:
 
-> Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!”
+*Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!*
 
 What are some words to describe the tone of this piece? You might say it is conversational, accessible, or straightforward. The casual tone of this writing is one clue that it does not come from a scholarly source.
 
@@ -307,7 +355,12 @@ No one can be expected to read everything while they’re searching for resource
 
 Get into the habit of “talking to the text” as you scan, whether you’re looking at a computer screen or a piece of paper. Highlight important words and phrases, record questions or 24 ideas that come up, and make notes about how this material might connect to other things you know.
 
-If you were investigating the topic of high-stakes testing, [what would you notice about the abstract and keywords for this article?] As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:
+If you were investigating the topic of high-stakes testing, what would you notice about the abstract and keywords for this article? 
+
+![Elementary School Journal](img/Elem School Abstract.png)
+*The Elementary School Journal page excerpt demonstrating source credibility.*
+
+As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:
 * Abstract: If there’s an abstract, read it first, checking for key words and concepts.
 * Scan: Even if there isn’t an abstract, scan for keywords and formal language structure.
 
