@@ -352,7 +352,7 @@ By examining the content, you can determine an article’s suitability for schol
 
 This excerpt from The Elementary School Journal, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
 
-![Elementary School Journal](img/Elem School Abstract.png)
+![Elementary School Journal](img/ElemSchoolAbstract.png)
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
  Finally, think about the tone of the abstract. Look at this sentence: 
