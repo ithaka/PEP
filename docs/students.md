@@ -379,7 +379,7 @@ Get into the habit of “talking to the text” as you scan, whether you’re lo
 
 If you were investigating the topic of high-stakes testing, what would you notice about the abstract and keywords for this article? 
 
-![Elementary School Journal](img/Elem School Abstract.png)
+![Elementary School Journal](img/ElemSchoolAbstract.png)
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
 As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:
