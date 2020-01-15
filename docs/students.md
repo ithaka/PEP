@@ -78,20 +78,42 @@ You may increase the importance of any term in your search by using the caret (^
 You can narrow search results to a variety of item or journal information. This is possible because JSTOR uses fields for categorization of metadata. Each field is represented in a search by its abbreviation. The example above (au:smith) will find all items for which Smith is listed as an author. Appending ty:fla to a search ("great gatsby" ty:fla) will limit a search to full-length articles, and ty:brv will limit a search to book reviews. 
 
 Other frequently used field abbreviations are:
-| Code        | Returns results from:          | Example  |
-| ------------- |:-------------:| -----:|
-| jo:     | journal title field | jo:econometrica |
-| ta:      | Article title field (does not search books title field)      |   ta:modernism |
-| ab: | Item abstract field (please note that only about 10% of articles on JSTOR include abstracts)
-
-      |    ab:microfinance |
-| ca: | Illustration caption field      |    ca:rembrandt |
-| vo: | Journal Volume field      |    vo:134 |
-
+<table style="width:100%">
+	<tr>
+		<th>Code</th>
+		<th>Returns results from:</th>
+		<th>Example</th>
+	</tr>
+	<tr>
+		<td>jo:</td>
+		<td>Journal title field</td>
+		<td>jo:econometrica</td>
+	</tr>
+	<tr>
+		<td>ta:</td>
+		<td>Article title field (does not search books' title fields)</td>
+		<td>ta:modernism</td>
+	</tr>
+	<tr>
+		<td>ab:</td>
+		<td>Item abstract field (please note that only 10% of articles in JSTOR include abstracts</td>
+		<td>ab:microfinance</td>
+	</tr>
+	<tr>
+		<td>ca:</td>
+		<td>Illustration caption field</td>
+		<td>ca:rembrandt</td>
+	</tr>
+	<tr>
+		<td>vo:</td>
+		<td>Journal volume field</td>
+		<td>vo:134</td>
+	</tr>
+</table>
 Other less commonly used field abbreviations include:
 
-cty:(book) = book
-cty:pamphlet = pamphlet
+cty: (book) = book
+cty: pamphlet = pamphlet
 rt: title of a reviewed work
 so: or jo: journal title
 no: issue or number
