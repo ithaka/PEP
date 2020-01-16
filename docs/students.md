@@ -1,7 +1,5 @@
 #  About the JSTOR Offline Index
 
-For over a decade, JSTOR subscribing institutions affiliated with a prison education program have had the option to provide their programs a first generation offline index and browser for searching content on JSTOR (at no additional subscription cost). Through funding from the Andrew W. Mellon Foundation, we have developed a new solution. This solution provides a flexible, offline, searchable index of JSTOR content, in the form of a USB drive or dedicated appliance. 
-
 # What is JSTOR?
 JSTOR is a digital library of academic journals and books. More than 11,000 institutions around the world—including colleges and universities, secondary schools, public libraries, and other organizations—currently participate in JSTOR. JSTOR helps people discover, use, and build upon a wide range of content through a powerful research, and preserves this content for future generations.  The content in JSTOR is interdisciplinary, scholarly, and peer-reviewed (for most journal and ebook content). You can learn more about what peer-reviewed means in the Research Basics course included on this drive.
 
@@ -326,7 +324,7 @@ To have authority means to be recognized as knowledgeable on a specific topic. T
 
 Take a look at this excerpt from the sustainability journal Consilience: The Journal of Sustainable Development.
 ![Journal of Sustainable Development](img/Consilience.jpg.png)
-*Page from the Consilience: Journal of Sustainable Development to demonstrate authoship.*
+*Page from the Consilience: Journal of Sustainable Development to demonstrate authorship.*
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
 
@@ -352,20 +350,37 @@ By examining the content, you can determine an article’s suitability for schol
 
 This excerpt from The Elementary School Journal, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
 
-![Elementary School Journal](img/ElemSchoolAbstract.png)
+![Elementary School Journal](img/ElemSchoolJournal.png)
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
  Finally, think about the tone of the abstract. Look at this sentence: 
 
+![Elementary School Journal excerpt](img/ElemSchoolJournalExcerpt.png)
 *Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.*
 
 What are some words that describe the tone of this sentence? You might say it is complex, formal, or academic.
 
 Now, look at this excerpt from another source on the topic of teaching science:
 
+![Earth Science Week front page](img/EarthScienceWeek.png)
 *Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!*
 
 What are some words to describe the tone of this piece? You might say it is conversational, accessible, or straightforward. The casual tone of this writing is one clue that it does not come from a scholarly source.
+
+#### Publisher
+We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:
+* Does the journal list an editorial board?
+* Is there a logo?
+* Has the journal won any awards? Is it affiliated with a well-known institution?
+* Is the blurb on the journal written in a scholarly manner for an academic audience?
+
+Within a scholarly database listing, you will usually find a link that offers information about a journal. Here’s an example from Teaching & Learning Inquiry, published by Indiana University Press. 
+
+![Indiana University Press](img/IndianaUPress.png)
+*Indiana University Press example of publisher information.*
+
+A university affiliation is a good indicator of scholarly content. Notice whether there is a logo displaying the name. Information is included on its mission, editors, and editorial board. The tone is professional and the style is academic. 
+
 
 #### Additional ways of identifying scholarly sources
 Academic endorsement is an important indicator of scholarship. We’ll explore the signs of academic endorsement together, and you will learn how to recognize them on your own.
@@ -379,7 +394,7 @@ Get into the habit of “talking to the text” as you scan, whether you’re lo
 
 If you were investigating the topic of high-stakes testing, what would you notice about the abstract and keywords for this article? 
 
-![Elementary School Journal](img/ElemSchoolAbstract.png)
+![Elementary School Journal testing](img/IssuesHighStakesTesting.png)
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
 As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:
@@ -391,17 +406,33 @@ Other signs of academic endorsement can be found by examining the work’s bibli
 
 Look at the bibliography: is the article formulated from other scholarship? If there is no bibliography, that could be a sign that a source is not scholarly. 
 
+#### Currency
+Once you’ve determined that a work is scholarly, it’s important that you make sure the sources you use are also current and relevant. When you assess the currency of a source, you’re asking, “How new is this information? Has anything changed since this was published?” 
+
+Here are a few clues that can help you decide whether a source is current.
+* Publication or revision date: does the source have one? If not, you really have no way to tell whether it’s outdated. A scholarly source should always include a publication date.
+* How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.
+* Has the information been revised, updated, or retracted? Is newer information available?
+* Also consider your topic: is information about it still changing or being discovered,such as in the fields of medicine or technology? If so, you may want to look for only very current sources. On the other hand, if you are writing about an event in ancient history, it may be fine to use older sources.
+
+#### Relevance
+The question of relevance is one that only you can answer: how useful is a source for your purpose? 
+* Is it written at an appropriate level?
+* Is it too broad or too specific?
+* Does it answer a question or fill a need in your research?
+* Does it add something new?
+
 #### References: Citations
 Check for citations within the text of the article. Have the authors backed up their statements with references to other scholarly sources? 
+
+![Citations within an article](img/InArticleCitation.png)
+*Example of an article with citations in the text.*
 
 You can see that this author is citing research that supports her statements. This tells you that her assertions are based on study in the field, and it indicates that other scholars share her views. This foundation is a good indicator of scholarly content. If the author provides no citations, it could be a sign that the source is not scholarly.
 
 In many cases, you can also find out who is citing the source you’re looking at. If other scholars are using it as a source in their own research, that could be a sign of a well-respected scholarly source. This is called a “cited by search” or a “reverse citation search.” Many databases provide a link to this search from an article’s citation page. 
 
-In this case, a list of articles that have cited the one you’re looking at display when the link is clicked. This tells you that other scholars in the field consider this article a reliable source.
-
-
-## Citing scholarly work in your own writing
+## Citing scholarly work: creating citations
 You’re doing research for a paper on youth voting. You come across two articles that provide different numbers for how many young people voted in the most recent election. One source quotes a specific expert and includes a list of citations; the other source says that its numbers come “from a recent poll.” Which one seems like a more trustworthy source? Why?
 
 Citing your sources means that you give credit for the ideas and information you’ve used in your paper. It builds credibility and helps readers understand where your ideas come from. 
@@ -421,7 +452,8 @@ There are a variety of ways to format citations. Citation styles are issued by t
 
 Most citation styles include the same basic pieces of information, but may require that the order or format of those pieces be a little different. For example, some styles use full first names, while others use just a first initial. Some styles capitalize every word of a title, and some capitalize only the first word. Depending on the style, you may use a period after each piece of information, or a comma between some of them. You may need to use a single space, or you may need two spaces. These are small details, but it’s important to pay attention to them as you create your citations. Formatting your citations correctly and consistently tells your readers (and your instructor) that you understand the conventions of academic writing.
 
-[Here, you can see the MLA and APA versions of citations for the same article].
+![Citation formats](img/Citations.png)
+Here, you can see the MLA, APA and Chicago-style versions of citations for the same article.
 
 ### Elements of a Citation: Print
 Print materials include books, popular magazines, and articles from scholarly journals. A complete citation for a print source will point your readers to the exact source you used — including the correct edition number, page number, or format.
@@ -452,9 +484,12 @@ Using your style guide as an example, plug in the information from your source m
 ### Examples: Print and Database Sources
 Now that you know where to find the information needed for a citation and how to compose one, let’s take a look at some examples.
 
-[Here’s the database information for an article on the writing of the Brontë sisters.] This excerpt includes all of the necessary elements of a citation: author, article title, journal title, volume and issue number, publication date, and page numbers.
+Here’s the database information for an article on the writing of the Brontë sisters. This excerpt includes all of the necessary elements of a citation: author, article title, journal title, volume and issue number, publication date, and page numbers.
+![Bronte sisters citation data](img/BronteSistersdata.png)
 
 Now, look at how these elements appear in an MLA and an APA citation. Most of the same elements are present in both citations, but you can see that the citations look different: the pieces are in a different order, some items (like the author’s name) are formatted differently, and different words are capitalized.
+
+![Bronte sisters citation](img/BronteSistersCitation.png)
 
 ### Citing and paraphrasing a scholarly work
 
