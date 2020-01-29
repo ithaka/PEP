@@ -619,7 +619,7 @@ What if there’s a great article on your topic that you didn’t cite, but you 
 
 A note has two parts: a superscript number within the text of your paper, and a corresponding entry in a numbered list. Within the text, use a superscript number to indicate each note. The text of the notes themselves can appear on a separate page at the end of your paper—these are called endnotes. Or, the notes can appear on the same pages as the superscript numbers—these are called footnotes. MLA style prefers endnotes rather than footnotes.
 
-![Footnotes and endnotes example](img/Footnotes and endnotes.png)
+![Footnotes and endnotes example](img/footnotes and endnotes.png)
 *Example of footnotes and endnotes.*
 
 
