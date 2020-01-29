@@ -120,10 +120,10 @@ sn: or in: International Standard Serials Number (ISSN)
 ### Limiting a search to content in a specific language
 JSTOR uses the Library of Congress's three letter MARC language codes in our metadata. You can append these codes to a search to limit the results to content in a specific language. An example: camus la:fre
 
-la:ara = Arabic
-la:chi = Chinese
-la:dut = Dutch
-la:eng = English
+la:ara = Arabic_
+la:chi = Chinese_
+la:dut = Dutch_
+la:eng = English_
 la:fre = French
 la:ger = German
 la:gre = Greek Modern
