@@ -120,22 +120,22 @@ sn: or in: International Standard Serials Number (ISSN)
 ### Limiting a search to content in a specific language
 JSTOR uses the Library of Congress's three letter MARC language codes in our metadata. You can append these codes to a search to limit the results to content in a specific language. An example: camus la:fre
 
-la:ara = Arabic_
-la:chi = Chinese_
-la:dut = Dutch_
-la:eng = English_
-la:fre = French
-la:ger = German
-la:gre = Greek Modern
-la:heb = Hebrew
-la:ita = Italian
-la:jpn = Japanese
-la:lat = Latin
-la:por = Portuguese
-la:rus = Russian
-la:spa = Spanish
-la:swe = Swedish
-la:tur = Turkish
+la:ara = Arabic<br />
+la:chi = Chinese<br />
+la:dut = Dutch<br />
+la:eng = English<br />
+la:fre = French<br />
+la:ger = German<br />
+la:gre = Greek Modern<br />
+la:heb = Hebrew<br />
+la:ita = Italian<br />
+la:jpn = Japanese<br />
+la:lat = Latin<br />
+la:por = Portuguese<br />
+la:rus = Russian<br />
+la:spa = Spanish<br />
+la:swe = Swedish<br />
+la:tur = Turkish<br />
 
 ### Understanding your search results
 
@@ -324,6 +324,7 @@ To have authority means to be recognized as knowledgeable on a specific topic. T
 
 Take a look at this excerpt from the sustainability journal Consilience: The Journal of Sustainable Development.
 ![Journal of Sustainable Development](img/Consilience.jpg.png)
+
 *Page from the Consilience: Journal of Sustainable Development to demonstrate authorship.*
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
@@ -338,6 +339,7 @@ It’s important that academic scholarship is presented in an objective manner w
 In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
 
 ![American Journal of Nursing](img/AJNPeerreview.png)
+
 *American Journal of Nursing peer review process.*
 
 #### Content
@@ -351,6 +353,7 @@ By examining the content, you can determine an article’s suitability for schol
 This excerpt from The Elementary School Journal, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
 
 ![Elementary School Journal](img/ElemSchoolJournal.png)
+
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
  Finally, think about the tone of the abstract. Look at this sentence: 
@@ -379,6 +382,7 @@ We’ve discussed authors and their content, so now let’s turn to the publishe
 Within a scholarly database listing, you will usually find a link that offers information about a journal. Here’s an example from Teaching & Learning Inquiry, published by Indiana University Press. 
 
 ![Indiana University Press](img/IndianaUPress.png)
+
 *Indiana University Press example of publisher information.*
 
 A university affiliation is a good indicator of scholarly content. Notice whether there is a logo displaying the name. Information is included on its mission, editors, and editorial board. The tone is professional and the style is academic. 
@@ -397,6 +401,7 @@ Get into the habit of “talking to the text” as you scan, whether you’re lo
 If you were investigating the topic of high-stakes testing, what would you notice about the abstract and keywords for this article? 
 
 ![Elementary School Journal testing](img/IssuesHighStakesTesting.png)
+
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
 As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:
@@ -428,6 +433,7 @@ The question of relevance is one that only you can answer: how useful is a sourc
 Check for citations within the text of the article. Have the authors backed up their statements with references to other scholarly sources? 
 
 ![Citations within an article](img/InArticleCitation.png)
+
 *Example of an article with citations in the text.*
 
 You can see that this author is citing research that supports her statements. This tells you that her assertions are based on study in the field, and it indicates that other scholars share her views. This foundation is a good indicator of scholarly content. If the author provides no citations, it could be a sign that the source is not scholarly.
@@ -455,6 +461,7 @@ There are a variety of ways to format citations. Citation styles are issued by t
 Most citation styles include the same basic pieces of information, but may require that the order or format of those pieces be a little different. For example, some styles use full first names, while others use just a first initial. Some styles capitalize every word of a title, and some capitalize only the first word. Depending on the style, you may use a period after each piece of information, or a comma between some of them. You may need to use a single space, or you may need two spaces. These are small details, but it’s important to pay attention to them as you create your citations. Formatting your citations correctly and consistently tells your readers (and your instructor) that you understand the conventions of academic writing.
 
 ![Citation formats](img/Citations.png)
+
 Here, you can see the MLA, APA and Chicago-style versions of citations for the same article.
 
 ### Elements of a Citation: Print
@@ -475,11 +482,13 @@ If you use a library database to download a book or article originally published
 So, where do you start finding the elements of a citation? When you’re looking at a book, you can find most or all of these elements at the beginning of the book, on the title page and the copyright page. 
 
 ![Book front and back matter](img/Frontandbackmatter.png)
+
 *Example of a book showing front and back matter.*
 
 If you’re looking at a journal article, you can usually find information at the top and bottom of the page, and at the beginning or end of the article. 
 
 ![Journal front page for citation](img/Journalcitation.png)
+
 *Example of a journal page showing citation information.*
 
 But the best time to find and record this information for a book or journal is at the beginning of your research process. When you’re searching a database, you can find a complete citation for each search result. Keep all of this information with your notes for later use. 
@@ -552,20 +561,24 @@ In MLA and APA styles, an in-text citation is a brief mention of the source that
 Sometimes it makes sense to incorporate the author’s name into the sentence itself. This is fine to do, but you always need to include a page number in parentheses for print sources. The purpose of this citation is to tell the reader that the quote comes from page 23 of a publication by an author named Harris. If the reader wants to know more about this publication, she can look at the Works Cited page at the end of the paper, which will include a complete citation for this source.
 
 ![Harris citation MLA](img/IntextcitationHarris.png)
+
 *Example of an in text MLA style citation.*
 
 APA style uses the author-date style rather than author-page, so an APA citation includes the author’s last name and the year of publication. This citation looks slightly different, but it serves the same purpose: it gives the reader the information she needs to find a more detailed citation at the end of the paper.
 
 ![Harris citation APA](img/IntextcitationHarrisAPA.png)
+
 *Example of an in text APA style citation.*
 
 ### Offset Citations
 Sometimes you will need to use a longer quotation as a part of your work. Rather than being inserted into the rest of the text, longer quotations should be indented to make the distinction clear to the reader. You can refer to a style guide, a book or online source devoted to the citation style you are using, to find the cutoff for when to indent, or offset, a quotation. In MLA style, offset a quotation when it makes up four or more lines of text.
 
 ![Offset citation MLA style](img/LongtextexampleMLA.png)
+
 *Example of an offset citation in MLA style.*
 
 ![Offset citation APA style](img/LongtextexampleAPA.png)
+
 *Example of an offset citation in APA style.*
 
 Notice that when you offset a quotation, you don’t use quotation marks around it. In this case, the formatting provides a clue to the reader that this is quoted material.
@@ -594,6 +607,7 @@ As you know, in-text citations tell the reader which ideas and facts come from y
 In MLA and APA style, references are listed alphabetically by author. In other styles that use numeric citation, the list of references will be numbered in the order they’re cited within the text. In both cases, the goal is that readers can see a citation within the text and refer to the Works Cited page to get the full information about the source used.
 
 ![Works cited page in MLA style](img/ExampleworkscitedpageMLAstyle.png)
+
 *Example of a works cited page in MLA style.*
 
 Here’s an important note: If a source is cited in your paper, it must be listed in the Works Cited. The opposite is also true: Every source included in your Works Cited must be cited somewhere in your paper.
@@ -622,6 +636,7 @@ What if there’s a great article on your topic that you didn’t cite, but you 
 A note has two parts: a superscript number within the text of your paper, and a corresponding entry in a numbered list. Within the text, use a superscript number to indicate each note. The text of the notes themselves can appear on a separate page at the end of your paper—these are called endnotes. Or, the notes can appear on the same pages as the superscript numbers—these are called footnotes. MLA style prefers endnotes rather than footnotes.
 
 ![Footnotes and endnotes example](img/footnotesandendnotes.png)
+
 *Example of footnotes and endnotes.*
 
 
