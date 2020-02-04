@@ -1,15 +1,7 @@
 # JSTOR Offline Index
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
-## Getting started
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* ##### `mkdocs help` - Print this help message.
-
 ## Installation
+Upon receipt of the NUC ...(need content here)
 
 Installation list
 
@@ -18,18 +10,18 @@ Installation list
 - third
 - fourth
 
-## Educational Resources
+## Administration
+Use the Admin Login link in upper right corner to access student requests and to configure drives.
 
-Lorem Ipsum Dolor
+### Set your admin password
 
-## Other 
+### Configure drives
 
-Lorem Ipsum
+### Manage student requests
 
-> > Text directions and link to www.artstor.org
->
-> Quotation
->
-> 
-
-
+## Instructions for GitHub
+For full documentation visit [mkdocs.org](https://mkdocs.org).
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* ##### `mkdocs help` - Print this help message.
