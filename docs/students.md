@@ -643,3 +643,7 @@ A note has two parts: a superscript number within the text of your paper, and a 
 You might want to use a note to point readers to further articles on a topic; these are called bibliographic notes. Or you might use a note to give additional information about a statement; these are called content notes.
 
 Remember that notes are optional and should be used sparingly, if at all. If notes are overused, you run the risk of overwhelming your reader with information, or distracting her from the main flow of your ideas.
+$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkyNjExNjY0NV19
+-->
