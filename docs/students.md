@@ -1,13 +1,13 @@
 #  About the JSTOR Offline Index
 
 # What is JSTOR?
-JSTOR is a digital library of academic journals and books. More than 11,000 institutions around the world—including colleges and universities, secondary schools, public libraries, and other organizations—currently participate in JSTOR. JSTOR helps people discover, use, and build upon a wide range of content through a powerful research, and preserves this content for future generations.  The content in JSTOR is interdisciplinary, scholarly, and peer-reviewed (for most journal and ebook content). You can learn more about what peer-reviewed means in the Research Basics course included on this drive.
+JSTOR is a digital library of academic journals and books. More than 11,000 institutions around the world—including colleges and universities, secondary schools, public libraries, and other organizations—currently participate in JSTOR. JSTOR helps people discover, use, and build upon a wide range of content, and preserves this content for future generations.  The content in JSTOR is interdisciplinary, scholarly, and peer-reviewed (for most journal and ebook content). You can learn more about what peer-reviewed means in the Research Basics course included in this tool.
 
 ## What's in JSTOR
-JSTOR contains more than 2,300 journals from 1,000 publishers, with publication dates ranging from 1665 to 2015 (for certain titles). Journals are available in more than 60 disciplines in the humanities, social sciences, and sciences and mathematics. There are also than 70,000 ebooks (shown in your search results as book chapters) from academic publishers.
+JSTOR contains more than 2,600 journals from 1,200 publishers, with publication dates ranging from 1665 to 2015 (for certain titles). Journals are available in more than 70 disciplines in the humanities, social sciences, and sciences and mathematics. There are also more than 80,000 ebooks (shown in your search results as book chapters) from academic publishers.
 
-# How to use the JSTOR index
-JSTOR supports full-text keyword searching across all of the content on this index. JSTOR generally includes all the content from articles, books, and pamphlets, cover to cover. This makes it possible to search front matter and back matter, letters to the editor, advertisements, and other types of material along with scholarly articles and book chapters. 
+# How to use JSTOR
+JSTOR supports full-text keyword searching across all of the content. JSTOR generally includes all the content from articles, books, and pamphlets, cover to cover. This makes it possible to search front matter and back matter, letters to the editor, advertisements, and other types of material along with scholarly articles and book chapters. 
 
 ## Search JSTOR
 The search form appears on the main page and also at the top of most content pages. You can type any search terms into the box and JSTOR will search for those terms across all of the content on the index.
@@ -29,7 +29,7 @@ You may combine search terms and fields using AND, OR, and NOT (Boolean logic).
 
 AND: When you combine search terms with AND in a search, your results contain everything in which both terms appear. Combining search terms makes your search results more precise. You can explicitly denote AND in the following ways: cat AND dog, cat && dog, +cat +dog, (cat dog)
 
-OR: Using OR between search terms allows to you find all items that contain either term. Using OR will search for items that contain either the word "cat", the word "dog", or both. For example: cat OR dog
+OR: Using OR between search terms allows you to find all items that contain either term. Using OR will search for items that contain either the word "cat", the word "dog", or both. For example: cat OR dog
 
 NOT: Searches using NOT will only find items that do not contain the search term following it. NOT must be capitalized. To find all items with the word cat that do not contain the word dog, search for: cat NOT dog, cat -dog (Be sure to include a space before the dash, but not after). 
 
@@ -45,7 +45,7 @@ Parentheses allow you to determine the order in which terms are combined. The se
 * birds NOT (sparrow OR robin) will search for items that contain the word birds but do not contain either the word sparrow or the word robin
 
 ### Searching for an exact phrase
-If you want to include more than one term in a field search, use parentheses () to enclose your search terms, or quotation marks (" ") to search for an exact phrase. The example above ("american revolution") searches for the exact phrase "american revolution" rather than treating it as a phrase search (american AND revolution).
+If you want to include more than one term in a field search, use parentheses () to enclose your search terms, or quotation marks (" ") to search for an exact phrase. The example above ("american revolution") searches for the exact phrase "american revolution" rather than treating it as a keyword search (american AND revolution).
 
 Some other examples:
 
@@ -59,10 +59,10 @@ Using the tilde symbol: You can find words with spellings similar to your search
 
 Wildcards: Wildcards take the place of one or more characters in a search term. A question mark is used for single character searching. An asterisk is used for multiple character searching. Wildcards are used to search for alternate spellings and variations on a root word. Wildcard characters cannot be used in place of the first letter of a word or within an exact phrase search. For example:
 
-wom?n finds the words woman, women, womyn,
-bird* finds bird, birding, birdman, birds, and other words that start with bird
-organi?ation finds organization or organisation
-behavior* searches for behavior, behavioral, behaviorist, behaviorism, or behaviorally
+**wom?n** finds the words woman, women, womyn<br />
+**bird*** finds bird, birding, birdman, birds, and other words that start with bird<br />
+**organi?ation** finds organization or organisation<brb />
+**behavior*** searches for behavior, behavioral, behaviorist, behaviorism, or behaviorally<br />
 
 You can combine search terms containing wild cards (wom?n AND "science education") and they may be used in a field search: au:sm?th or ti:shakespeare*
 
@@ -73,7 +73,7 @@ JSTOR search allows you to find terms that are within a set number of words of e
 You may increase the importance of any term in your search by using the caret (^) symbol followed by a number that represents the rise in relevance. In the example above (cat^7 dog), an occurrence of the word cat in an item is seven times more important than the word dog.
 
 ### Using field abbreviations
-You can narrow search results to a variety of item or journal information. This is possible because JSTOR uses fields for categorization of metadata. Each field is represented in a search by its abbreviation. The example above (au:smith) will find all items for which Smith is listed as an author. Appending ty:fla to a search ("great gatsby" ty:fla) will limit a search to full-length articles, and ty:brv will limit a search to book reviews. 
+You can narrow search results to the fields JSTOR uses for categorization of metadata. Each field is represented in a search by its abbreviation. The example above (au:smith) will find all items for which Smith is listed as an author. Appending ty:fla to a search ("great gatsby" ty:fla) will limit a search to full-length articles, and ty:brv will limit a search to book reviews. 
 
 Other frequently used field abbreviations are:
 <table style="width:100%">
@@ -147,15 +147,15 @@ Phrase matches are boosted higher than just keyword matches. A search for "the q
 More recent content is given a slight boost.
 
 #### About "recent" content on JSTOR
-Content on JSTOR is subject to what is call the "moving wall." The Moving Wall embargo refers to the gap of content between the archival (or past) and current (more recent) issues of a journal. The Moving Wall delay is set by a journal’s publisher and ranges from 0 to 10 years, although the majority of journals in the JSTOR archive have a Moving Wall delay of 3 to 5 years.
+Content on JSTOR is subject to what is called the "moving wall." The Moving Wall refers to the gap of content between the archival (or past) and current (more recent) issues of a journal. The Moving Wall is set by a journal’s publisher and ranges from 0 to 10 years, although the majority of journals in the JSTOR archive have a Moving Wall gap of 3 to 5 years.
 
 The Wall resets, or moves forward, after a complete year, every year in early January. This is when another year of content is added into the JSTOR archive. The Moving Wall calculation does not include the current year. 
 
-So in 2019 for a journal with a Moving Wall delay set to 5 years, archival content goes up to 2013. (5 years from the previously completed year, which would be 2018). This is why you don't see articles from last year on the index.
+For example, in 2019 for a journal with a Moving Wall set to 5 years, archival content goes up to 2013. (5 years from the previously completed year, which would be 2018). This is why you may not find articles from last year for some journals on JSTOR.
 
 ### Requesting Materials
 
-The JSTOR Offline Index makes requesting materials simple. During the search process, you may select the articles you would like by clicking "Request this." The button will turn blue and the text will change to "Added to cart" to show you've selected the materials. Continue requesting items until you're satisfied with all of your selections. 
+The JSTOR offline index makes requesting materials simple. During the search process, you may select the articles you would like by clicking "Request this." The button will turn blue and the text will change to "Added to cart" to show you've selected the materials. Continue requesting items until you're satisfied with all of your selections. 
 
 ![Clicking the "Request this" button](img/requestThis.gif)
 
@@ -169,7 +169,7 @@ If you would like to view the materials you've requested and/or cancel some mate
 
 ### Submitting your requests
 
-The "Your requests" button also lets you submit your requests for retrieval. When you're ready to submit a request, make sure to type your name into the field at the top under "Student Name." You may also include any notes about your request that could be useful to your librarian that will be retrieving the materials. There are also options to print the list ("Print this list"), download a copy of it in a text file (Download list (.csv), and submit requests electronically ("Submit Requests.") Depending on your institution, you may print the list or submit it electronically. If you're not sure which method to use, ask your teacher or supervisor.
+The "Your requests" button also lets you submit your requests for retrieval. When you're ready to submit a request, make sure to type your name into the field at the top under "Student Name." You may also include any notes about your request that could be useful to your librarian who will be retrieving the materials. There are also options to print the list ("Print this list"), download a copy of it in a text file (Download list (.csv), and submit requests electronically ("Submit Requests.") Depending on your institution, you may print the list or submit it electronically. If you're not sure which method to use, ask your teacher or supervisor.
 
 ![Submitting your requests screen](img/submitRequestsMenu.png)
 
@@ -179,9 +179,7 @@ The "Your requests" button also lets you submit your requests for retrieval. Whe
 
 How do you think about research? Where do you start? What do you do? How do you use it? Don’t worry, the Research Basics content below can help you get a handle on your research process.
 
-This introductory program was created by JSTOR to help you get familiar with basic research concepts needed for success in school and beyond. The topics covered are subjects that will help you prepare for academic research. 
-
-The JSTOR librarians who helped create this content hope you learn from the experience and feel ready to research when you’ve finished this program.
+This introductory program was created by JSTOR to help you get familiar with basic research concepts needed for success in school and beyond. The topics covered are subjects that will help you prepare for academic research.
 
 ## Formulating a Search Strategy
 
@@ -189,7 +187,7 @@ The JSTOR librarians who helped create this content hope you learn from the expe
 
 Think of a scholarly database as a vault that holds thousands upon thousands of articles, books, and other sources. Your key to unlock this vault is your search string: the set of words, phrases, and punctuation you enter into a search box to tell the database what you’re looking for. Every database will look and function a little differently, but you can almost always use the same strategies to get good results.
 
-First, try to match your terms with the language in the sources you’d like to find—that is, think of the terminology that is most likely to be used by scholars writing about your topic. These key words and phrases will help connect you with the most relevant results. Scholarly publications use scholarly, formal language. So if you come up with two equivalent words or phrases, it might help to choose the one that seems more formal and less casual. The formal term influenza brings up more search results than the colloquial term flu. 
+First, try to match your terms with the language in the sources you’d like to find—that is, think of the terminology that is most likely to be used by scholars writing about your topic. These keywords and phrases will help connect you with the most relevant results. Scholarly publications use scholarly, formal language. So if you come up with two equivalent words or phrases, it might help to choose the one that seems more formal and less casual. The formal term influenza brings up more search results than the colloquial term flu. 
 
 Next, think of synonyms and related terms that might be used instead of the main terms you’re searching. For example, in a search about seventeenth-century New York City, you might also want to use the search term New Amsterdam, which was the city’s official name at that time. In a search about cooking, you might want to use the related term recipes; it’s not exactly a synonym, but it will yield results that are closely related to your topic. 
 
@@ -197,14 +195,14 @@ Next, think of synonyms and related terms that might be used instead of the main
 
 Once you’ve decided on a set of terms to use, it’s time to begin putting them together. The way you combine your search terms will serve as a set of instructions for the database, telling it what you want to see and what you don’t. 
 
-For more precise results, use quotation marks around multi-word search terms. This is known as a **phrase search**. It tells the database to retrieve only results where these words are used together in a certain order. If you’re researching the theatrical group Blue Man Group, a key word search for blue man group will retrieve any article where these three words appear, even if they are separated by other words or are out of order. On the other hand, a phrase search for “blue man group” in quotation marks will retrieve only articles where the words appear together in that order. The second group of search results is much smaller and easier to review.
+For more precise results, use quotation marks around multi-word search terms. This is known as a **phrase search**. It tells the database to retrieve only results where these words are used together in a certain order. If you’re researching the theatrical group Blue Man Group, a keyword search for blue man group will retrieve any article where these three words appear, even if they are separated by other words or are out of order. On the other hand, a phrase search for “blue man group” in quotation marks will retrieve only articles where the words appear together in that order. The second group of search results is much smaller and easier to review.
 
 ### Boolean Operators
 
 Consider using special words called Boolean operators: AND, OR, and NOT. These words give the database additional information about how to process a search that uses more than one term. Let’s look at some examples.
 
-- **AND** tells the database to retrieve all of the results that contain both Term A andTerm B. It narrows the search by leaving out results in which one term, but not the other, is used.
-- **OR** tells the database to retrieve all of the results that contain either Term A or TermB.It expands the search to include all instances where either term appears. This will be the largest set of results — remember it as “OR means more.”
+- **AND** tells the database to retrieve all of the results that contain both Term A and Term B. It narrows the search by leaving out results in which one term, but not the other, is used.
+- **OR** tells the database to retrieve all of the results that contain either Term A or Term B.It expands the search to include all instances where either term appears. This will be the largest set of results — remember it as: “OR means more.”
 - **NOT** tells the database to include one term but exclude the other. It narrows the search by leaving out any result that contains the second term.
 
 A Boolean operator should always appear in all capital letters. This tells the database to use the capitalized word as an instruction, not as a word that is part of your search.
@@ -225,7 +223,7 @@ You can often change the way your search results display, and sometimes this is 
 
 You can also choose to display results by relevance. This gives you a quick sense of how many articles really focus on your search terms. If there are a couple of pages of articles that look promising, that may be a sign that you have a good set of search results. On the other hand, if only one or two of the articles in your list are truly relevant to your topic, it may be time to rethink your search strategy.
 
-A search that is too specific may yield few or no results. Try doing your search again with one or more general terms in your search string. When you have a good set of results, narrow your search to full-text articles whenever possible. This will ensure that all of your results are immediately accessible. 
+A search that is too specific may yield few or no results. Try doing your search again with one or more general terms in your search string. 
 
 ![The Search Results Page](img/searchResults.png)
 
@@ -233,7 +231,7 @@ A search that is too specific may yield few or no results. Try doing your search
 
 ### Build on Good Sources
 
-If you have already received access to a copy of one or more sources that are a good fit, you can also take a look at the references. This is a good way to find related articles or books. You may also find that the same author has published and cited previous works on the same topic.
+If you have already received access to a copy of one or more sources that are a good fit, you can also take a look at the references the author has used in their research. The references are usually found at the end of an article or book. This is a good way to find related articles or books. You may also find that the same author has published and cited previous works on the same topic.
 
 ### Managing Information Overload
 
@@ -271,16 +269,19 @@ If you’re overwhelmed with search results, there are several ways to work towa
 
 First, double-check the construction of your search string. If you’ve used a set of quotation marks or a set of parentheses, make sure it’s closed correctly and encloses the intended terms. Make sure that any Boolean operators, like AND or OR, are capitalized.
 
-Next, scan the first page or two of results and see how you might refine them. The JSTOR Offline Index includes options to **Refine Results** that allow you to be more specific about what results you want to see. Here are a few of the options available:
-* **Content Type** You can choose between the type of materials such as between a journal article or a book chapter.
-* **Publication Date** You can select results by a certain date. To look at only the most recent examples, you might only check materials published after 2010.
-* **Discipline** You can narrow your search to publications in a certain field or discipline.
+Next, scan the first page or two of results and see how you might refine them. The JSTOR offline index includes options to **Refine Results** that allow you to be more specific about what results you want to see. Here are a few of the options available:
+
+**Content Type** You can choose between the type of materials such as between a journal article or a book chapter.
+
+**Publication Date** You can select results by a certain date. To look at only the most recent examples, you might only check materials published after 2010.
+
+**Discipline** You can narrow your search to publications in a certain field or discipline.
 
 ![Tools for refining search results](img/refineSearch.png)
 
-*The **Refine Results** pane helps you filter out articles that may not be useful for your research.*
+*The* **Refine Results** *pane helps you filter out articles that may not be useful for your research.*
 
-After you’ve used **Refine Results** to narrow down your search, reassess the results and adjust your search string accordingly. Do you keep seeing a term or idea that isn’t relevant to your research? Use the NOT operator to exclude it from your next set of search results. Do you see a term that is useful but isn’t in your search string? Using AND to add it to your search string will narrow down the current set of results.
+After you’ve used **Refine Results** to narrow down your search, reassess the results and adjust your search string accordingly. Do you keep seeing a term or idea that isn’t relevant to your research? Do you see a term that is useful but isn’t in your search string? Using AND to add it to your search string will narrow down the current set of results.
 
 You might also reassess the terms you’ve used. Is there a more specific version that’s likely to get you fewer results—and results that are more specific to your topic? A search for “opera singers” yields a lot of results, but a search for the more specific term “mezzo sopranos” brings up a much smaller set. 
 
@@ -314,27 +315,27 @@ These attributes are helpful in interpreting the level of scholarship. In the le
 An easy way to remember the key indicators of academic scholarship is by using your A-B-Cs: **authority**, **bias**, and **content**. Let’s get started by investigating the topic of high-stakes testing.
 
 #### Authority
-To have authority means to be recognized as knowledgeable on a specific topic. There’s a root word in “authority” that tells you what you’re going to look at first: “author.” When you’re considering a source, try to find the answers to these questions:
-* Is the author or authors clearly identified?
-* Does the author have scholarly credentials, or credentials within the appropriate field of expertise?
-* Is the author’s affiliation apparent, such as where he or she works? If the author is a professor, are advanced degrees listed alongside his or her academic position?
-* Does the author have qualifications to write on the topic, such as an advanced degree in the field with several years of experience and research on the topic?
-* Does the publication have an author and an editor? The presence of an editor might imply a collection of articles, as opposed to a single piece by a single person. Be sure to note who the piece is actually written by. This should usually be a person in scholarly works with appropriate credentials.
-* Occasionally, an organization will serve as the author. In these cases, make sure that the organization has expertise and credibility in the field. You can usually determine this by reading the organization’s bio, the same way you would read about an author.
+To have authority means to be recognized as knowledgeable on a specific topic. There’s a root word in “authority” that tells you what you’re going to look at first: “author.” When you’re considering a source, try to find the answers to these questions:<br />
+* Is the author or authors clearly identified?<br />
+* Does the author have scholarly credentials, or credentials within the appropriate field of expertise?<br />
+* Is the author’s affiliation apparent, such as where he or she works? If the author is a professor, are advanced degrees listed alongside his or her academic position?<br />
+* Does the author have qualifications to write on the topic, such as an advanced degree in the field with several years of experience and research on the topic?<br />
+* Does the publication have an author and an editor? The presence of an editor might imply a collection of articles, as opposed to a single piece by a single person. Be sure to note who the piece is actually written by. This should usually be a person in scholarly works with appropriate credentials.<br />
+* Occasionally, an organization will serve as the author. In these cases, make sure that the organization has expertise and credibility in the field. You can usually determine this by reading the organization’s bio, the same way you would read about an author.<br />
 
-Take a look at this excerpt from the sustainability journal Consilience: The Journal of Sustainable Development.
+Take a look at this excerpt from the sustainability journal *Consilience: The Journal of Sustainable Development*.
 ![Journal of Sustainable Development](img/Consilience.jpg.png)
 
-*Page from the Consilience: Journal of Sustainable Development to demonstrate authorship.*
+Page from *Consilience: Journal of Sustainable Development* demonstrating authorship.
 
 You can see the authors clearly listed, along with their affiliations and contact details. All authors work at well-known institutions, and one is an assistant professor of public affairs. These are good indicators that they have authority on this subject.
 
 #### Bias
-It’s important that academic scholarship is presented in an objective manner without bias. The peer review system is an established way to identify biases that might appear in scholarly research. In peer review, a work is evaluated by experts and published only if it meets the discipline’s standards. It is also a way to ensure objectivity in assessing an academic article. The peers selected for the review are:
-* In the same field as the author(s)
-* Proven to be objective and independent from the work they are reviewing for publication
-* Familiar enough with the body of work the article relates to in order to lend credibility to the publication of it
-* Able to make a formal declaration in the work attesting to their neutrality
+It’s important that academic scholarship is presented in an objective manner without bias. The peer review system is an established way to identify biases that might appear in scholarly research. In peer review, a work is evaluated by experts and published only if it meets the discipline’s standards. It is also a way to ensure objectivity in assessing an academic article. The peers selected for the review are:<br />
+* In the same field as the author(s)<br />
+* Proven to be objective and independent from the work they are reviewing for publication<br />
+* Familiar enough with the body of work the article relates to in order to lend credibility to the publication of it<br />
+* Able to make a formal declaration in the work attesting to their neutrality<br />
 
 In this view from the American Journal of Nursing, you can see a reference to peer review along with the information on what the journal stands for and what it looks for in the articles it publishes. The journal has greater authority because you can rely on its information being unbiased.
 
@@ -343,14 +344,14 @@ In this view from the American Journal of Nursing, you can see a reference to pe
 *American Journal of Nursing peer review process.*
 
 #### Content
-By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:
-* **Audience**: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?
-* **Intent**: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?
-* **Level**: does the article assume some basic knowledge on the readers’ part? Is it written for peers, or to introduce the topic to laypersons?
-* **Style**: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?
-* **Tone**: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?
+By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:<br />
+**Audience**: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?<br />
+**Intent**: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?<br />
+**Level**: does the article assume some basic knowledge on the readers’ part? Is it written for peers, or to introduce the topic to laypersons?<br />
+**Style**: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?<br />
+**Tone**: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?<br />
 
-This excerpt from The Elementary School Journal, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, The Elementary School Journal, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
+This excerpt from *The Elementary School Journal*, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, *The Elementary School Journal*, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
 
 ![Elementary School Journal](img/ElemSchoolJournal.png)
 
@@ -360,7 +361,7 @@ This excerpt from The Elementary School Journal, provides information on the sou
 
 ![Elementary School Journal excerpt](img/ElemSchoolJournalExcerpt.png)
 
-*Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.*
+"*Next, we provide examples of curriculum development and research programs to illustrate key components in the theoretical framework and to highlight how these programs address challenges in curriculum design and implementation.*"
 
 What are some words that describe the tone of this sentence? You might say it is complex, formal, or academic.
 
@@ -368,18 +369,18 @@ Now, look at this excerpt from another source on the topic of teaching science:
 
 ![Earth Science Week front page](img/EarthScienceWeek.png)
 
-*Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!*
+"*Do the research together with each student recording the information in a chart. Then do a quick discussion, ending with safety tips for each type of danger in your area. Have each student make a button with a safety tip and wear it this week. Or they could make an Earth Science Week button!*"
 
 What are some words to describe the tone of this piece? You might say it is conversational, accessible, or straightforward. The casual tone of this writing is one clue that it does not come from a scholarly source.
 
 #### Publisher
-We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:
-* Does the journal list an editorial board?
-* Is there a logo?
-* Has the journal won any awards? Is it affiliated with a well-known institution?
-* Is the blurb on the journal written in a scholarly manner for an academic audience?
+We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:<br />
+* Does the journal list an editorial board?<br />
+* Is there a logo?<br />
+* Has the journal won any awards? Is it affiliated with a well-known institution?<br />
+* Is the blurb on the journal written in a scholarly manner for an academic audience?<br />
 
-Within a scholarly database listing, you will usually find a link that offers information about a journal. Here’s an example from Teaching & Learning Inquiry, published by Indiana University Press. 
+Within a scholarly database listing, you will usually find a link that offers information about a journal. Here’s an example from *Teaching & Learning Inquiry*, published by Indiana University Press. 
 
 ![Indiana University Press](img/IndianaUPress.png)
 
@@ -396,7 +397,7 @@ We’ll also tackle the concepts of relevance and currency in scholarship. You�
 #### Scan
 No one can be expected to read everything while they’re searching for resources, so it’s important to practice the art of scanning. If there’s an abstract, scan for keywords: words or phrases that relate to your topic and provide clues about the content of the article. Pay attention to the A-B-C clues you see (authority, bias, and content). If there is no abstract, scan for author, publisher, and key words. Key words should not only relate to your topic, but also be of a scholarly nature.
 
-Get into the habit of “talking to the text” as you scan, whether you’re looking at a computer screen or a piece of paper. Highlight important words and phrases, record questions or 24 ideas that come up, and make notes about how this material might connect to other things you know.
+Get into the habit of “talking to the text” as you scan, whether you’re looking at a computer screen or a piece of paper. Highlight important words and phrases, record questions or ideas that come up, and make notes about how this material might connect to other things you know.
 
 If you were investigating the topic of high-stakes testing, what would you notice about the abstract and keywords for this article? 
 
@@ -404,9 +405,9 @@ If you were investigating the topic of high-stakes testing, what would you notic
 
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
-As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:
-* Abstract: If there’s an abstract, read it first, checking for key words and concepts.
-* Scan: Even if there isn’t an abstract, scan for keywords and formal language structure.
+As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:<br />
+* Abstract: If there’s an abstract, read it first, checking for key words and concepts.<br />
+* Scan: Even if there isn’t an abstract, scan for keywords and formal language structure.<br />
 
 #### References: Bibliography
 Other signs of academic endorsement can be found by examining the work’s bibliography. Review your sources’ reference information to find signs of academic endorsement.
@@ -416,18 +417,18 @@ Look at the bibliography: is the article formulated from other scholarship? If t
 #### Currency
 Once you’ve determined that a work is scholarly, it’s important that you make sure the sources you use are also current and relevant. When you assess the currency of a source, you’re asking, “How new is this information? Has anything changed since this was published?” 
 
-Here are a few clues that can help you decide whether a source is current.
-* Publication or revision date: does the source have one? If not, you really have no way to tell whether it’s outdated. A scholarly source should always include a publication date.
-* How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.
-* Has the information been revised, updated, or retracted? Is newer information available?
-* Also consider your topic: is information about it still changing or being discovered,such as in the fields of medicine or technology? If so, you may want to look for only very current sources. On the other hand, if you are writing about an event in ancient history, it may be fine to use older sources.
+Here are a few clues that can help you decide whether a source is current.<br />
+* Publication or revision date: does the source have one? If not, you really have no way to tell whether it’s outdated. A scholarly source should always include a publication date.<br />
+* How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.<br />
+* Has the information been revised, updated, or retracted? Is newer information available?<br />
+* Also consider your topic: is information about it still changing or being discovered,such as in the fields of medicine or technology? If so, you may want to look for only very current sources. On the other hand, if you are writing about an event in ancient history, it may be fine to use older sources.<br />
 
 #### Relevance
-The question of relevance is one that only you can answer: how useful is a source for your purpose? 
-* Is it written at an appropriate level?
-* Is it too broad or too specific?
-* Does it answer a question or fill a need in your research?
-* Does it add something new?
+The question of relevance is one that only you can answer: how useful is a source for your purpose?<br /> 
+* Is it written at an appropriate level?<br />
+* Is it too broad or too specific?<br />
+* Does it answer a question or fill a need in your research?<br />
+* Does it add something new?<br />
 
 #### References: Citations
 Check for citations within the text of the article. Have the authors backed up their statements with references to other scholarly sources? 
@@ -445,10 +446,10 @@ You’re doing research for a paper on youth voting. You come across two article
 
 Citing your sources means that you give credit for the ideas and information you’ve used in your paper. It builds credibility and helps readers understand where your ideas come from. 
 
-In this lesson, you’ll learn:
-* What elements make up a citation
-* Where to find the necessary information for a citation
-* How to compose your own citations
+In this lesson, you’ll learn:<br />
+* What elements make up a citation<br />
+* Where to find the necessary information for a citation<br />
+* How to compose your own citations<br />
 
 ### Why Cite?
 Citing your sources serves you, and it serves your readers. When you provide citations for the work you’ve used in your paper, it gives readers a way to follow up and find more information on a topic. A good citation points your readers directly to the source. 
@@ -467,10 +468,10 @@ Here, you can see the MLA, APA and Chicago-style versions of citations for the s
 ### Elements of a Citation: Print
 Print materials include books, popular magazines, and articles from scholarly journals. A complete citation for a print source will point your readers to the exact source you used — including the correct edition number, page number, or format.
 
-Common elements of a citation include:
-* The author’s name: Who wrote the work? Usually this is a person or multiple people,but sometimes the author is an organization or institution.
-* Title: What is the exact title of the work? If it appears within a larger work—like an article in a journal or a chapter in a book—what is the title of the larger work?
-* Publication date: When was the work published? Are there multiple editions or revisions? If more than one date is given, use the most recent one in your citation.
+Common elements of a citation include:<br />
+* The author’s name: Who wrote the work? Usually this is a person or multiple people,but sometimes the author is an organization or institution.<br />
+* Title: What is the exact title of the work? If it appears within a larger work—like an article in a journal or a chapter in a book—what is the title of the larger work?<br />
+* Publication date: When was the work published? Are there multiple editions or revisions? If more than one date is given, use the most recent one in your citation.<br />
 
 For both books and journal articles, MLA style requires the author’s name, the publication title and/or article title, the publication date, and the format, such as print or web. 
 
@@ -491,9 +492,9 @@ If you’re looking at a journal article, you can usually find information at th
 
 *Example of a journal page showing citation information.*
 
-But the best time to find and record this information for a book or journal is at the beginning of your research process. When you’re searching a database, you can find a complete citation for each search result. Keep all of this information with your notes for later use. 
+The best time to find and record this information for a book or journal is at the beginning of your research process. When you’re searching a database, you can find a complete citation for each search result. Keep all of this information with your notes for later use. 
 
-Some databases will also generate a citation in your desired format. Also, consider using citation management software to track your sources as you go. Some citation management programs are free, and your school may subscribe to others. Ask your librarian about the best citation manager to use. 
+Some databases will also generate a citation in your desired format. Also, consider using citation management software to track your sources as you go. Some citation management programs are free, and your school may subscribe to others. Ask your teacher or librarian about the best citation manager to use. 
 
 ### Composing a Citation
 When it’s time to put together your citations, you’ll need the information you’ve gathered about your sources — but you’ll also need information about what is required for a particular citation style. Your library or teacher should have a copy of the style guide you need or the online version of the style guide.
@@ -514,10 +515,10 @@ Now, look at how these elements appear in an MLA and an APA citation. Most of th
 
 Now that you understand the elements of a citation, it’s time to take a look at how to incorporate citations into the main body of an academic paper. 
 
-In this lesson, you will:
-* Gain an understanding of when and what to cite in your work
-* Learn the difference between quoting, paraphrasing, and summarizing your sources
-* Learn how to cite sources within the body of your paper
+In this lesson, you will:<br />
+* Gain an understanding of when and what to cite in your work<br />
+* Learn the difference between quoting, paraphrasing, and summarizing your sources<br />
+* Learn how to cite sources within the body of your paper<br />
 
 ### When to Cite
 When do you need to cite a source? Each time you incorporate someone else’s information or idea into your own work, you must provide a citation. So, even if you are using your own words to describe another person’s idea, it’s still necessary to cite.
@@ -533,10 +534,10 @@ Common knowledge also varies between different groups. Think of your audience an
 If you are unsure about whether a citation is necessary, it’s always better to provide one. It’s much better to cite too heavily than to run the risk of plagiarism.
 
 ### Plagiarism
-Plagiarism is the use of another person’s words or ideas without providing proper credit. When you think of the word “plagiarism,” you might think of someone downloading a paper from the Internet or copying a classmate’s work. But plagiarism is often not intentional, and it’s much broader than just copying someone else’s work. It can be as simple as:
-* Failing to include a citation for an idea you’ve restated in your own words
-* Paraphrasing in language that is too close to the original, or
-* Forgetting to put quotation marks around content from another writer’s work
+Plagiarism is the use of another person’s words or ideas without providing proper credit. When you think of the word “plagiarism,” you might think of someone downloading a paper from the Internet or copying a classmate’s work. But plagiarism is often not intentional, and it’s much broader than just copying someone else’s work. It can be as simple as:<br />
+* Failing to include a citation for an idea you’ve restated in your own words<br />
+* Paraphrasing in language that is too close to the original, or<br />
+* Forgetting to put quotation marks around content from another writer’s work<br />
 
 As a writer, you are responsible for avoiding plagiarism — and there’s really no room for accidents. It’s essential to be conscious of giving credit to your sources. 
 
@@ -589,15 +590,15 @@ If the quoted material makes up less than four lines of text, it should appear a
 
 Now that you know how to create citations and how to cite your sources within the body of a paper, it’s time to create the remaining piece of your citation system: a list of complete citations that appears at the end of your paper. 
 
-In this lesson:
-* You’ll learn how to create a Works Cited page.
-* You’ll learn how Works Cited differs from a bibliography.
-* You’ll also learn how to use notes to provide your readers with additional information.
+In this lesson:<br />
+* You’ll learn how to create a Works Cited page.<br />
+* You’ll learn how Works Cited differs from a bibliography.<br />
+* You’ll also learn how to use notes to provide your readers with additional information.<br />
 
 ### Tracking Your Sources
-Now you’ve learned how to find and collect the elements necessary for a complete citation. Having all of this information handy will make it much simpler to compile your Works Cited page. There are several ways to keep your sources organized as you do your research:
-* Fill out a note card for each source. Each card should include a complete citation for the source, and you can also use it to make notes about how the source is useful for your paper.
-* Create a research log: a word-processing document or spreadsheet that lists each source, along with your notes.
+Now you’ve learned how to find and collect the elements necessary for a complete citation. Having all of this information handy will make it much simpler to compile your Works Cited page. There are several ways to keep your sources organized as you do your research:<br />
+* Fill out a note card for each source. Each card should include a complete citation for the source, and you can also use it to make notes about how the source is useful for your paper.<br />
+* Create a research log: a word-processing document or spreadsheet that lists each source, along with your notes.<br />
 
 Use whatever method is most efficient for you. If you’re having trouble tracking down a piece of information you need for a citation, ask your teacher or librarian for help.
 
@@ -613,11 +614,11 @@ In MLA and APA style, references are listed alphabetically by author. In other s
 Here’s an important note: If a source is cited in your paper, it must be listed in the Works Cited. The opposite is also true: Every source included in your Works Cited must be cited somewhere in your paper.
 
 #### Creating Your Works Cited Page
-To create your Works Cited page, add sources to the page as you cite them. This means that you’ll be transferring your source information from your note card, or research log document. As you add sources to your Works Cited page, be sure that:
-* Citations are formatted according to your style guide
-** All the necessary elements of each citation are present
-** Punctuation, capitalization, and italics are used in keeping with your style guide
-* Every in-text citation has a corresponding entry on the Works Cited page
+To create your Works Cited page, add sources to the page as you cite them. This means that you’ll be transferring your source information from your note card, or research log document. As you add sources to your Works Cited page, be sure that:<br />
+* Citations are formatted according to your style guide<br />
+** All the necessary elements of each citation are present<br />
+** Punctuation, capitalization, and italics are used in keeping with your style guide<br />
+* Every in-text citation has a corresponding entry on the Works Cited page<br />
 
 Organize your citations in alphabetical order by the author’s last name. If you’ve cited more than one source from the same author, alphabetize those sources by title. For entries following the first one, you’ll replace the author’s name with three hyphens.
 
