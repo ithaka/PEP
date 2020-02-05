@@ -322,3 +322,19 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     -moz-border-radius: 6px 0 6px 6px;
     border-radius: 6px 0 6px 6px;
 }
+
+
+/*******  CUSTOM STUFF -Jessica  ********/
+
+body {
+    color: #000000
+}
+
+body::before {
+    background: none
+}
+
+.navbar {
+    background-color: #990000!important;
+    background-image: none;
+}
