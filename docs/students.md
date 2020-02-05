@@ -271,11 +271,11 @@ First, double-check the construction of your search string. If you’ve used a s
 
 Next, scan the first page or two of results and see how you might refine them. The JSTOR offline index includes options to **Refine Results** that allow you to be more specific about what results you want to see. Here are a few of the options available:
 
-**Content Type** You can choose between the type of materials such as between a journal article or a book chapter.
+* **Content Type** You can choose between the type of materials such as between a journal article or a book chapter.
 
-**Publication Date** You can select results by a certain date. To look at only the most recent examples, you might only check materials published after 2010.
+* **Publication Date** You can select results by a certain date. To look at only the most recent examples, you might only check materials published after 2010.
 
-**Discipline** You can narrow your search to publications in a certain field or discipline.
+* **Discipline** You can narrow your search to publications in a certain field or discipline.
 
 ![Tools for refining search results](img/refineSearch.png)
 
@@ -316,6 +316,7 @@ An easy way to remember the key indicators of academic scholarship is by using y
 
 #### Authority
 To have authority means to be recognized as knowledgeable on a specific topic. There’s a root word in “authority” that tells you what you’re going to look at first: “author.” When you’re considering a source, try to find the answers to these questions:<br />
+
 * Is the author or authors clearly identified?<br />
 * Does the author have scholarly credentials, or credentials within the appropriate field of expertise?<br />
 * Is the author’s affiliation apparent, such as where he or she works? If the author is a professor, are advanced degrees listed alongside his or her academic position?<br />
@@ -332,6 +333,7 @@ You can see the authors clearly listed, along with their affiliations and contac
 
 #### Bias
 It’s important that academic scholarship is presented in an objective manner without bias. The peer review system is an established way to identify biases that might appear in scholarly research. In peer review, a work is evaluated by experts and published only if it meets the discipline’s standards. It is also a way to ensure objectivity in assessing an academic article. The peers selected for the review are:<br />
+
 * In the same field as the author(s)<br />
 * Proven to be objective and independent from the work they are reviewing for publication<br />
 * Familiar enough with the body of work the article relates to in order to lend credibility to the publication of it<br />
@@ -345,11 +347,12 @@ In this view from the American Journal of Nursing, you can see a reference to pe
 
 #### Content
 By examining the content, you can determine an article’s suitability for scholarly research. Remember to look not only for relevant topical information, but also signs of scholarship. Here are some questions to consider:<br />
-**Audience**: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?<br />
-**Intent**: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?<br />
-**Level**: does the article assume some basic knowledge on the readers’ part? Is it written for peers, or to introduce the topic to laypersons?<br />
-**Style**: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?<br />
-**Tone**: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?<br />
+
+* **Audience**: is the work intended for other scholars or experts in the field? Does it use discipline-specific terminology?<br />
+* **Intent**: why is the author publishing the article? Is it a report, a case study, or an in-depth analysis of a specific topic?<br />
+* **Level**: does the article assume some basic knowledge on the readers’ part? Is it written for peers, or to introduce the topic to laypersons?<br />
+* **Style**: Are there illustrations, charts, and tables? If so, are they relevant to the content or are they “eye candy” meant to attract readers?<br />
+* **Tone**: is it written using a professional tone and an academic style, or is it colloquial and casual, which is a sign it’s not scholarly?<br />
 
 This excerpt from *The Elementary School Journal*, provides information on the source’s credibility. As a researcher, knowing that the article is credible is just as important as finding out what it has to say about high-stakes testing. The title of the journal, *The Elementary School Journal*, doesn’t tell us much about the level of content—but the subtitle of the article, “A Framework for Equitable Learning Opportunities,” gives us a clue that this article is aimed at readers with some knowledge in the field, not at the general public. The article is presented in plain text, without any illustrations. These are all good indicators of a credible scholarly source.
 
@@ -375,6 +378,7 @@ What are some words to describe the tone of this piece? You might say it is conv
 
 #### Publisher
 We’ve discussed authors and their content, so now let’s turn to the publisher that’s responsible for the end product. The publisher plays an important role in establishing credibility. Without a legitimate publisher, it’s difficult to confirm that a source is credible. When in doubt, look to the publisher to help steer you toward a credible source on which to base your scholarly work, and search for these clues:<br />
+
 * Does the journal list an editorial board?<br />
 * Is there a logo?<br />
 * Has the journal won any awards? Is it affiliated with a well-known institution?<br />
@@ -395,7 +399,7 @@ Academic endorsement is an important indicator of scholarship. We’ll explore t
 We’ll also tackle the concepts of relevance and currency in scholarship. You’ll learn why they are important, and how they are different.
 
 #### Scan
-No one can be expected to read everything while they’re searching for resources, so it’s important to practice the art of scanning. If there’s an abstract, scan for keywords: words or phrases that relate to your topic and provide clues about the content of the article. Pay attention to the A-B-C clues you see (authority, bias, and content). If there is no abstract, scan for author, publisher, and key words. Key words should not only relate to your topic, but also be of a scholarly nature.
+No one can be expected to read everything while they’re searching for resources, so it’s important to practice the art of scanning. If there’s an abstract, scan for keywords: words or phrases that relate to your topic and provide clues about the content of the article. Pay attention to the A-B-C clues you see (authority, bias, and content). If there is no abstract, scan for author, publisher, and keywords. Keywords should not only relate to your topic, but also be of a scholarly nature.
 
 Get into the habit of “talking to the text” as you scan, whether you’re looking at a computer screen or a piece of paper. Highlight important words and phrases, record questions or ideas that come up, and make notes about how this material might connect to other things you know.
 
@@ -405,7 +409,8 @@ If you were investigating the topic of high-stakes testing, what would you notic
 
 *The Elementary School Journal page excerpt demonstrating source credibility.*
 
-As you scan this abstract, you might highlight the key words “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:<br />
+As you scan this abstract, you might highlight the keywords “high-stakes testing,” which tell you that it relates to your topic. You might mark phrases like “qualitative metasynthesis” or “template analysis” with a question mark if you’re not sure what they mean. The use of these complex and specialized terms indicate that this is a scholarly source. Remember:<br />
+
 * Abstract: If there’s an abstract, read it first, checking for key words and concepts.<br />
 * Scan: Even if there isn’t an abstract, scan for keywords and formal language structure.<br />
 
@@ -418,6 +423,7 @@ Look at the bibliography: is the article formulated from other scholarship? If t
 Once you’ve determined that a work is scholarly, it’s important that you make sure the sources you use are also current and relevant. When you assess the currency of a source, you’re asking, “How new is this information? Has anything changed since this was published?” 
 
 Here are a few clues that can help you decide whether a source is current.<br />
+
 * Publication or revision date: does the source have one? If not, you really have no way to tell whether it’s outdated. A scholarly source should always include a publication date.<br />
 * How recent are the publication dates of the works cited in its bibliography? If a new article cites only articles from 20 years ago, consider whether it might be omitting more recent sources.<br />
 * Has the information been revised, updated, or retracted? Is newer information available?<br />
@@ -425,6 +431,8 @@ Here are a few clues that can help you decide whether a source is current.<br />
 
 #### Relevance
 The question of relevance is one that only you can answer: how useful is a source for your purpose?<br /> 
+
+
 * Is it written at an appropriate level?<br />
 * Is it too broad or too specific?<br />
 * Does it answer a question or fill a need in your research?<br />
@@ -447,6 +455,7 @@ You’re doing research for a paper on youth voting. You come across two article
 Citing your sources means that you give credit for the ideas and information you’ve used in your paper. It builds credibility and helps readers understand where your ideas come from. 
 
 In this lesson, you’ll learn:<br />
+
 * What elements make up a citation<br />
 * Where to find the necessary information for a citation<br />
 * How to compose your own citations<br />
@@ -469,6 +478,7 @@ Here, you can see the MLA, APA and Chicago-style versions of citations for the s
 Print materials include books, popular magazines, and articles from scholarly journals. A complete citation for a print source will point your readers to the exact source you used — including the correct edition number, page number, or format.
 
 Common elements of a citation include:<br />
+
 * The author’s name: Who wrote the work? Usually this is a person or multiple people,but sometimes the author is an organization or institution.<br />
 * Title: What is the exact title of the work? If it appears within a larger work—like an article in a journal or a chapter in a book—what is the title of the larger work?<br />
 * Publication date: When was the work published? Are there multiple editions or revisions? If more than one date is given, use the most recent one in your citation.<br />
@@ -516,6 +526,7 @@ Now, look at how these elements appear in an MLA and an APA citation. Most of th
 Now that you understand the elements of a citation, it’s time to take a look at how to incorporate citations into the main body of an academic paper. 
 
 In this lesson, you will:<br />
+
 * Gain an understanding of when and what to cite in your work<br />
 * Learn the difference between quoting, paraphrasing, and summarizing your sources<br />
 * Learn how to cite sources within the body of your paper<br />
@@ -535,6 +546,7 @@ If you are unsure about whether a citation is necessary, it’s always better to
 
 ### Plagiarism
 Plagiarism is the use of another person’s words or ideas without providing proper credit. When you think of the word “plagiarism,” you might think of someone downloading a paper from the Internet or copying a classmate’s work. But plagiarism is often not intentional, and it’s much broader than just copying someone else’s work. It can be as simple as:<br />
+
 * Failing to include a citation for an idea you’ve restated in your own words<br />
 * Paraphrasing in language that is too close to the original, or<br />
 * Forgetting to put quotation marks around content from another writer’s work<br />
@@ -546,11 +558,11 @@ Remember: When in doubt, cite.
 ### Quoting, Paraphrasing, and Summarizing
 There are different ways to use information from your sources in your own writing. 
 
-**Quoting** is the most straightforward: you use another writer’s words exactly as they appear in the source material. When you quote a source, you must enclose the quoted material in quotation marks. This gives readers a visual cue that these are not your own words.
+* **Quoting** is the most straightforward: you use another writer’s words exactly as they appear in the source material. When you quote a source, you must enclose the quoted material in quotation marks. This gives readers a visual cue that these are not your own words.
 
-**Paraphrasing** means stating someone else’s idea in your own words. When you paraphrase, you don’t use quotation marks, so it is essential to reword significantly enough that the wording and sentence structure are your own.
+* **Paraphrasing** means stating someone else’s idea in your own words. When you paraphrase, you don’t use quotation marks, so it is essential to reword significantly enough that the wording and sentence structure are your own.
 
-**Summarizing** is writing your own description of a larger work or a body of ideas. As with paraphrasing, a summary needs to be your own words. No quotation marks are used here, so it’s very important to distinguish your writing from the source’s.
+* **Summarizing** is writing your own description of a larger work or a body of ideas. As with paraphrasing, a summary needs to be your own words. No quotation marks are used here, so it’s very important to distinguish your writing from the source’s.
 
 Whether you’re quoting, paraphrasing, or summarizing information from a source, you must provide a citation.
 
@@ -591,12 +603,14 @@ If the quoted material makes up less than four lines of text, it should appear a
 Now that you know how to create citations and how to cite your sources within the body of a paper, it’s time to create the remaining piece of your citation system: a list of complete citations that appears at the end of your paper. 
 
 In this lesson:<br />
+
 * You’ll learn how to create a Works Cited page.<br />
 * You’ll learn how Works Cited differs from a bibliography.<br />
 * You’ll also learn how to use notes to provide your readers with additional information.<br />
 
 ### Tracking Your Sources
 Now you’ve learned how to find and collect the elements necessary for a complete citation. Having all of this information handy will make it much simpler to compile your Works Cited page. There are several ways to keep your sources organized as you do your research:<br />
+
 * Fill out a note card for each source. Each card should include a complete citation for the source, and you can also use it to make notes about how the source is useful for your paper.<br />
 * Create a research log: a word-processing document or spreadsheet that lists each source, along with your notes.<br />
 
@@ -615,9 +629,11 @@ Here’s an important note: If a source is cited in your paper, it must be liste
 
 #### Creating Your Works Cited Page
 To create your Works Cited page, add sources to the page as you cite them. This means that you’ll be transferring your source information from your note card, or research log document. As you add sources to your Works Cited page, be sure that:<br />
-* Citations are formatted according to your style guide<br />
-** All the necessary elements of each citation are present<br />
-** Punctuation, capitalization, and italics are used in keeping with your style guide<br />
+
+* Citations are formatted according to your style guide
+    * All the necessary elements of each citation are present<br />
+    * Punctuation, capitalization, and italics are used in keeping with your style guide<br />
+
 * Every in-text citation has a corresponding entry on the Works Cited page<br />
 
 Organize your citations in alphabetical order by the author’s last name. If you’ve cited more than one source from the same author, alphabetize those sources by title. For entries following the first one, you’ll replace the author’s name with three hyphens.
