@@ -175,7 +175,8 @@ The "Your requests" button also lets you submit your requests for retrieval. Whe
 
 *You may print out a list of your requests for your librarian, download an electronic file copy (.csv), or submit your requests electronically.*
 
-# Research Basics: an offline course for learning about academic research
+# Research Basics
+Research basics is an offline course for learning about academic research.
 
 How do you think about research? Where do you start? What do you do? How do you use it? Don’t worry, the Research Basics content below can help you get a handle on your research process.
 
