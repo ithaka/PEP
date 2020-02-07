@@ -27,19 +27,21 @@ To configure a new drive:
 ### Manage student requests
 Use the **View Requests** link to see the queue of items students have reqeuested.
 
-Once a **pending** item has action taken on it by clicking either **print**, **pdf** or **deny**, it will automatically become **completed** and disappear from the pending filter.
+Act on a request by selecting print, PDF, or deny. Choose PDF only if you are connected to JSTOR.org and can access the full database.
 
-You can change the date order of requests by toggling the arrows next to **Requested**. 
+Once a **pending** item has action taken on it (by clicking either **print**, **pdf** or **deny**), it will become **completed** and be viewable with the completed filter. All items will persist in the list--there is no method for deletion.
+
+You can change the sorted date order of requests by toggling the arrows next to **Requested**. 
 
 ##### Sort requests
-Use the button to sort by either **Pending** requests, or **Completed** requests. Only the items you are currently viewing will be exported. All items will persist in the list--there is no method for deletion.
+Use the button to sort by either **Pending** requests, or **Completed** requests.
 
 
 ##### Import a list
 If you are acting on student requests on non-networked computers, you may wish to export that list and then import it to your main computer to keep all requests on one device. Connect or transfer the .csv file you exported from the non-networked computer and on your main computer choose **Import.** 
 
 ##### Export a list
-You may wish to use this option if you are acting on student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine.
+You may wish to use this option if you are acting on student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). 
 
 
 ## Instructions for GitHub
