@@ -13,7 +13,8 @@ Installation list
 ## Administration
 Use the **Admin Login** link in upper right corner to access student requests and to configure drives.
 
-### Set your admin password
+### About your admin password
+Admins cannot change a password. JSTOR Labs can change passwords either remotely or if a device is mailed to us.
 
 ### Configure drives
 The main Admin page will display the devices you have configured from your NUC drive. 
