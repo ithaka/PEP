@@ -20,25 +20,26 @@ The main Admin page will display the devices you have configured from your NUC d
 
 To configure a new drive:
 
-* Use the drive dropdown to select a device, then click Select.
-* Make selections for which disciplines to include in the drivve.
+* Use the drive dropdown to choose a device to copy to, then click Select.
+* Make selections for which disciplines to include in the drive. You will see an indication of storage. required for the device you are configuring.
 * On the next page, enter a name for your device, then click Export.
 
 ### Manage student requests
 Use the **View Requests** link to see the queue of items students have reqeuested.
 
-Once a **pending** item has action taken on it, either **print**, **pdf** or **deny**, it will automatically become **completed** and disappear from the pending filter.
+Once a **pending** item has action taken on it by clicking either **print**, **pdf** or **deny**, it will automatically become **completed** and disappear from the pending filter.
 
-You can change the date order of requests by toggling the arrows next to **Requested**.
+You can change the date order of requests by toggling the arrows next to **Requested**. 
 
 ##### Sort requests
-Use the button to sort by either **Pending** requests, or **Completed** requests. Only the items you are currently viewing will be exported.
+Use the button to sort by either **Pending** requests, or **Completed** requests. Only the items you are currently viewing will be exported. All items will persist in the list--there is no method for deletion.
+
 
 ##### Import a list
-If you have items in a .csv file that you wish to upload to this panel, 
+If you are acting on student requests on non-networked computers, you may wish to export that list and then import it to your main computer to keep all requests on one device. Connect or transfer the .csv file you exported from the non-networked computer and on your main computer choose **Import.** 
 
 ##### Export a list
-Request lists may be exported to a .csv file. These files are compatible with Microsoft Excel, Google sheets, etc. You may wish to manage the list of requests in a spreadsheet format for further analysis or tracking.
+You may wish to use this option if you are acting on student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine.
 
 
 ## Instructions for GitHub
