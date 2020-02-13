@@ -7,3 +7,5 @@ nav:
 - Activities: activities.md  
 - Students: students.md
 
+extra_css:
+  - css/labs.css
