@@ -4,7 +4,7 @@ use_directory_urls: false
 nav: 
 - Home: index.md
 - About: about.md
-- Activities: activities.md  
+- Classroom Exercises: activities.md
 - Students: students.md
 
 extra_css:
