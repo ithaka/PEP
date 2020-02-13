@@ -325,7 +325,8 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 /*******  CUSTOM STUFF -Jessica  ********/
 
 body {
-    color: #000000
+    color: #000000;
+    font-size: 16px;
 }
 
 body::before {
@@ -351,4 +352,8 @@ a {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     color: #990000
+}
+
+footer {
+    display: none;
 }
