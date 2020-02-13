@@ -361,6 +361,6 @@ footer {
     display: none;
 }
 
-.navbar-brand:before {
+.navbar-brand::before {
     background-image:url('https://d3taya9v9ihy04.cloudfront.net/pep/J_horizontal_white.svg')
 }
