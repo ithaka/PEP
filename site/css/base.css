@@ -332,9 +332,13 @@ body::before {
     background: none
 }
 
-.navbar {
+.navbar-header {
     background-color: #990000!important;
     background-image: none;
+}
+
+.navbar-default {
+    border-color: #990000;
 }
 
 a {
@@ -342,6 +346,9 @@ a {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #ffffff
+}
 
-    background-color: #178acc;
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #990000
 }
