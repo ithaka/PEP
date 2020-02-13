@@ -332,7 +332,7 @@ body::before {
     background: none
 }
 
-.navbar-header {
+.navbar {
     background-color: #990000!important;
     background-image: none;
 }
