@@ -362,6 +362,7 @@ footer {
 }
 
 .navbar-brand:after {
-    content: '';
-    background-image:url('https://d3taya9v9ihy04.cloudfront.net/pep/J_horizontal_white.svg')
+    content:url('https://d3taya9v9ihy04.cloudfront.net/pep/J_horizontal_white.svg');
+    height: 100px;
+    width: 100px;
 }
