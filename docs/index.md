@@ -45,9 +45,9 @@ If you are acting on student requests on non-networked computers, you may wish t
 You may wish to use this option if you are acting on student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). 
 
 
-## Instructions for GitHub
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* ##### `mkdocs help` - Print this help message.
+[//]: ### Instructions for GitHub
+[//]: #For full documentation visit [mkdocs.org](https://mkdocs.org).
+[//]: #* `mkdocs new [dir-name]` - Create a new project.
+[//]: #* `mkdocs serve` - Start the live-reloading docs server.
+[//]: #* `mkdocs build` - Build the documentation site.
+[//]: #* ##### `mkdocs help` - Print this help message.
