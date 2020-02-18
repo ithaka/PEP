@@ -1,14 +1,20 @@
 # JSTOR Offline Index
 
-## Installation
-Upon receipt of the NUC ...(need content here)
+## About the NUC
+The device provided is a ___ NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR (archive) ____ collection.
 
+## Installation
 Installation list
 
 - NUC device
-- Document with installation instructions
-- third
-- fourth
+- Copy of installation instructions
+- Letter introducing the device and program to the DOC
+
+Upon receipt of the NUC:
+
+1. Use the provided cable to power the device. Power it on using the on/off button on the front of the device.
+2. Connect the NUC to a local network using an ethernet cable or the local WiFi network provided by the NUC.
+3. Access the JSTOR application by browsing to the NUC device address;  when using WiFi this will be a static IP address defined in the documentation (along with the corresponding password);  when using a hardwired ethernet connection this address will need to be obtained from the local environment.
 
 ## Administration
 Use the **Admin Login** link in upper right corner to access student requests and to configure drives.
