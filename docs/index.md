@@ -12,9 +12,14 @@ Installation list
 
 Upon receipt of the NUC:
 
-1. Use the provided cable to power the device. Power it on using the on/off button on the front of the device.
+1. Use the provided cable to plug in and power the device. Use the on/off button on the front of the device.
 2. Connect the NUC to a local network using an ethernet cable or the local WiFi network provided by the NUC.
-3. Access the JSTOR application by browsing to the NUC device address;  when using WiFi this will be a static IP address defined in the documentation (along with the corresponding password);  when using a hardwired ethernet connection this address will need to be obtained from the local environment.
+3. Access the JSTOR application by browsing to the NUC device address:  
+
+_When using WiFi_ this will be a static IP address defined in the documentation (along with the corresponding password)
+
+_When using a hardwired ethernet connection_ this address will need to be obtained from the local environment.
+
 
 ## Administration
 Use the **Admin Login** link in upper right corner to access student requests and to configure drives.
@@ -23,13 +28,15 @@ Use the **Admin Login** link in upper right corner to access student requests an
 Admins cannot change a password. JSTOR Labs can change passwords either remotely or if a device is mailed to us.
 
 ### Configure drives
-The main Admin page will display the devices you have configured from your NUC drive. 
+A 128G USB drive should be sufficient for this process.
 
 To configure a new drive:
 
 * Use the drive dropdown to choose a device to copy to, then click Select.
-* Make selections for which disciplines to include in the drive. You will see an indication of storage. required for the device you are configuring.
+* Make selections for which disciplines to include in the drive. You will see an indication of storage required for the device you are configuring.
 * On the next page, enter a name for your device, then click Export.
+
+The main Admin page will display the devices you have configured from your NUC drive. 
 
 ### Manage student requests
 Use the **View Requests** link to see the queue of items students have reqeuested.
@@ -48,5 +55,5 @@ Use the button to sort by either **Pending** requests, or **Completed** requests
 If you are acting on student requests on non-networked computers, you may wish to export that list and then import it to your main computer to keep all requests on one device. Connect or transfer the .csv file you exported from the non-networked computer and on your main computer choose **Import.** 
 
 ##### Export a list
-You may wish to use this option if you are acting on student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). 
+You may wish to use this option if you are working with student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). 
 
