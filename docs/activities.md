@@ -1,5 +1,7 @@
 ## Activity: Changing Your Search String
 
+[Print the PDF](Activity Change your search string.pdf)
+
 In this activity, you will practice adjusting your search string to yield more useful results.
 
 Select a research topic. Perform a simple search for your topic. Next, choose a synonym or related term, and search on that term instead of your original one. Review the results and describe how they are different from the first set. Then use a Boolean operator (AND, OR, NOT) to adjust your search. Review the results and describe how they are different from the first set. Finally, decide which set of results was most useful for your search and explain why.
@@ -17,6 +19,9 @@ Your response should include:
 *As my research topic, I selected Shakespeare’s poetry -- in particular, criticism of his sonnets. My first search was for Shakespeare poetry. This search brought up over 49,000 results. I reviewed the first few pages of search results, and all of them appeared to relate to my topic. Unfortunately, the huge number of results made it impossible to really tell what was there. Also, this set of search results includes articles about some of Shakespeare’s poems that weren’t sonnets. My second search was for Shakespeare sonnets. I hoped that this more specific related term would get me a smaller set of results, and it did. I had just over 9,000 results instead of almost 50,000. This search set included articles about Shakespeare’s sonnets, but also book reviews and other non-useful sources. Finally, I narrowed down the search by looking for Shakespeare AND sonnets AND criticism. This search got me a set of just over 5,000 results. Looking down the list, some of them were more specialized than I needed or focused on a particular idea I wasn’t interested in -- but all of the results did focus on criticism of Shakespeare’s sonnets in some way. For this search, my third set of search terms was most useful. Because I used the specific term “sonnets” instead of “poetry” and focused on criticism, I was able to exclude many of the less-helpful sources from my first two searches.*
 
 ## Activity: Refining Search Results
+
+[Print the PDF](Activity Refining search results.pdf)
+
 In this activity, you’ll practice making decisions to improve your search results and minimize information overload. 
 
 First, select a topic. Perform a broad search (Search #1) on your topic and describe the results in terms of their number and relevance. Next, adjust your search string with the goal of refining your search results. Describe the results of this search (Search #2). Finally, based on the results of Search #2, suggest at least two additional changes that would be likely to produce a more useful set of search results.
@@ -33,7 +38,10 @@ Your response should include:
 *For my first search, I used the search string women white house. This search produced almost 200,000 results. As I scanned the first few pages of results, I noticed that although most of them related to the White House, many were talking about personnel, security, or other issues that didn’t relate directly to my topic.*
 *Based on these observations, I changed my search string to first ladies white house. I thought that this would help to focus my search on the First Ladies specifically, instead of many other areas where women might be involved in the White House. I was surprised to see that this search string brought back even more results, over 450,000. However, when I sorted the results by relevance, many of them talked about the First Ladies, so I could tell that this was a better search term than the broader word “women.” There were also a surprising number of articles about First Ladies’ dresses and fashion, which isn’t relevant to my topic.*
 
-# Activity: Pre-evaluating Sources
+## Activity: Pre-evaluating Sources
+
+[Print the PDF](Activity Pre-evaluating sources.pdf)
+
 In this activity, you will walk through the steps involved in pre-evaluating sources for academic research.
 
 Directions: 
@@ -63,7 +71,10 @@ All is Fair: Women and the American Civil War. Janelle Collett. http://www.femin
 
 *This left me with sources 1, 3, and 4 — all authoritative, unbiased, and scholarly articles. I noticed that source 3, although it is an appropriate source for academic research, isn’t a great fit for my search. It’s about the roles of women on the home front and I’m looking for information about women in battle. So I selected sources 1 and 4 as my final results.*
 
-# Activity: Assessing Currency
+## Activity: Assessing Currency
+
+[Print the PDF](Activity assessing currency.pdf)
+
 Currency is an important value in disciplines where information is always changing, such as science, technology, and medicine. In this activity, you will review the meaning of currency and explore how it affects your selection of sources on a topic of your choice.
 
 Directions: 
@@ -88,7 +99,9 @@ Your response should include:
 
 *In this case, it was very important to check and see whether newer information was available. The newer information contradicted the first source I found, so finding the most current source was essential for this topic.*
 
-# Activity: Credibility
+## Activity: Credibility
+
+[Print the PDF](Activity credibility.pdf)
 
 ##### Website Credibility
 **Instructors will need to provide printed copies of website pages for this activity.**
@@ -126,8 +139,11 @@ Your response should include a 250- to 350-word explanation of why each website 
 *Sources cited are non-scholarly, including Wikipedia.*
 *The Website page contains ads for other “sensational” products; ads are not clearly marked as such.*
 
-# Activity: Making and Using Citations
-**Instructors will need to provide three sample pages for students to create these citations.**
+## Activity: Making and Using Citations
+
+[Print the PDF](Activity making and using citations.pdf)
+
+**Instructors will need to provide three sample pages from which students can create these citations.**
 
 Creating MLA Citations
 In this activity, you’ll practice finding the elements of a citation and formatting them in MLA style.
