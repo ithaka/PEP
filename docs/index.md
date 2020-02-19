@@ -1,7 +1,7 @@
 # JSTOR Offline Index
 
 ## About the NUC
-The device provided is a ___ NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR (archive) ____ collection.
+The device provided is a NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR Archive Journals collection.
 
 ## Installation
 Installation list
