@@ -20,7 +20,7 @@ Your response should include:
 
 ## Activity: Refining Search Results
 
-[Print the PDF](Activity Refining search results.pdf)
+[Print the PDF](https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/ActivityRefiningSearchResults.pdf)
 
 In this activity, you’ll practice making decisions to improve your search results and minimize information overload. 
 
@@ -40,7 +40,7 @@ Your response should include:
 
 ## Activity: Pre-evaluating Sources
 
-[Print the PDF](Activity Pre-evaluating sources.pdf)
+[Print the PDF](https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/ActivityPre-evaluatingSources.pdf)
 
 In this activity, you will walk through the steps involved in pre-evaluating sources for academic research.
 
@@ -73,7 +73,7 @@ All is Fair: Women and the American Civil War. Janelle Collett. http://www.femin
 
 ## Activity: Assessing Currency
 
-[Print the PDF](Activity assessing currency.pdf)
+[Print the PDF](https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/ActivityAssessingCurrency.pdf)
 
 Currency is an important value in disciplines where information is always changing, such as science, technology, and medicine. In this activity, you will review the meaning of currency and explore how it affects your selection of sources on a topic of your choice.
 
@@ -101,7 +101,7 @@ Your response should include:
 
 ## Activity: Credibility
 
-[Print the PDF](Activity credibility.pdf)
+[Print the PDF](https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/ActivityCredibility.pdf)
 
 ##### Website Credibility
 **Instructors will need to provide printed copies of website pages for this activity.**
@@ -141,7 +141,7 @@ Your response should include a 250- to 350-word explanation of why each website 
 
 ## Activity: Making and Using Citations
 
-[Print the PDF](Activity making and using citations.pdf)
+[Print the PDF](https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/ActivityMakingAndUsingCitations.pdf)
 
 **Instructors will need to provide three sample pages from which students can create these citations.**
 
