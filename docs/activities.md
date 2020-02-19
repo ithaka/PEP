@@ -1,6 +1,6 @@
 ## Activity: Changing Your Search String
 
-[Print the PDF](Activity Change your search string.pdf)
+[Print the PDF](Activity Change your search string.pdf)![]()
 
 In this activity, you will practice adjusting your search string to yield more useful results.
 
