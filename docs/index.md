@@ -57,3 +57,8 @@ If you are acting on student requests on non-networked computers, you may wish t
 ##### Export a list
 You may wish to use this option if you are working with student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). 
 
+## Introduction letter
+
+Please use this letter to introduce the program and device to any necessary parties. Feel free to make edits to the letter as fits your needs.
+
+[Download the Word doc](https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/Introductory+Letter+for+Department+of+Corrections+Feb+2020.docx)
