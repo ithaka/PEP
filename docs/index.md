@@ -12,19 +12,46 @@ Installation list
 
 Upon receipt of the NUC:
 
-1. Use the provided cable to plug in and power the device. Use the on/off button on the front of the device.
-2. Connect the NUC to a local network using an ethernet cable or the local WiFi network provided by the NUC.
-3. Access the JSTOR application by browsing to the NUC device address:  
+*These instructions will work whether you are a) installing the NUC outside the facility to update it or to make thumb drives for use in the prison, or b) installing the NUC within the facility where it will be accessed directly on the Local Area Network (LAN) by students and administrators:*
 
-_When using WiFi_ this will be a static IP address defined in the documentation (along with the corresponding password)
+1. Use the provided cable to plug in and power the device. Turn on the device using  the on/off button on the front of the device.
+2. Connect the NUC to the local network using an ethernet cable.
+3. Once the device is on and connected, you will need to determine the IP address for the device on the network.  Since the device is designed to be used in “headless mode” -- that is, just plugged into the network without having to log directly into the device and without having to connect a monitor or keyboard -- to get the IP address, follow these steps:
+* The JSTOR PEP Device ID Tool is a small application that, when run on a computer in the same network as the NUC, will find it and show its address.  
 
-_When using a hardwired ethernet connection_ this address will need to be obtained from the local environment.
+Download it here: [download for mac / download for windows].  
+
+**For Mac computers:** After downloading the JSTOR PEP Device ID Tool to your Mac, make sure your Mac is on the same network as the NUC (if you have multiple options in your location). Then,  open a terminal window and  run the script by typing:   
+
+cd ~/(the location of the script); chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient
+
+For example, if you downloaded the script to your Downloads folder, you would type:
+cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient
+
+**For Windows computers:** double-click to run the JSTOR PEP Device ID Tool. The tool will search for the NUC device and if found, it will look like this:
+
+[image needed]
+
+Click on the snuc-NUC link in “Results” to open a browser window showing your the NUC JSTOR installation.  The URL in the address window can be used by any computer in the network to use JSTOR on the NUC.  This consists of the device’s IP address, followed by the “:1323” suffix.  
+
+For example, if the IP address you see is 192.168.21.83, students and administrators would enter into a browser window: 
+
+**http://192.168.21.83:1323**
+ 
+### Troubleshooting installation:
+* When initially using the JSTOR PEP Device ID Tool, if you see the message "No appliance found" in the status box, please contact us, and we can obtain it for you and further troubleshoot.
+* If the launch script doesn't work the first time, try to connect the computer you're using to discover the NUC with an ethernet connections (just like the NUC), since some networks separate out and block discovery tools across wifi and wired connections.
+* If you are installing the NUC where it is connected to the Internet, JSTOR has the ability to identify its IP address: contact us once it’s connected to the network and on, and we can get this information for you.
+* If you are getting security or permissions errors when running the JSTOR PEP Device ID Tool, please contact us and we will walk you through how to remedy.
+
 
 
 ## Administration
 Use the **Admin Login** link in upper right corner to access student requests and to configure drives.
 
 ### About your admin password
+The password to login is: **PYEmBcutkd!X#294A**
+
 Admins cannot change a password. JSTOR Labs can change passwords either remotely or if a device is mailed to us.
 
 ### Configure drives
