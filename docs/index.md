@@ -23,7 +23,7 @@ Download it here: [download for mac / download for windows].
 
 **For Mac computers:** After downloading the JSTOR PEP Device ID Tool to your Mac, make sure your Mac is on the same network as the NUC (if you have multiple options in your location). Then,  open a terminal window and  run the script by typing:   
 
-cd ~/(the location of the script); chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient
+cd ~/Downloads; chmod +x PEPDeviceIDTool_darwin; ./PEPDeviceIDTool_darwin
 
 For example, if you downloaded the script to your Downloads folder, you would type:
 cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient
