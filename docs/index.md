@@ -19,7 +19,11 @@ Upon receipt of the NUC:
 3. Once the device is on and connected, you will need to determine the IP address for the device on the network.  Since the device is designed to be used in “headless mode” -- that is, just plugged into the network without having to log directly into the device and without having to connect a monitor or keyboard -- to get the IP address, follow these steps:
 * The JSTOR PEP Device ID Tool is a small application that, when run on a computer in the same network as the NUC, will find it and show its address.  
 
-Download it here: [download for mac / download for windows].  
+**Download it here:**
+
+Download for mac [https://ithaka-labs-public.s3.amazonaws.com/pep/tool/PEPDeviceIDTool_darwin](https://ithaka-labs-public.s3.amazonaws.com/pep/tool/PEPDeviceIDTool_darwin)
+
+Download for windows [https://ithaka-labs-public.s3.amazonaws.com/pep/tool/PEPDeviceIDTool_windows.exe](https://ithaka-labs-public.s3.amazonaws.com/pep/tool/PEPDeviceIDTool_windows.exe)
 
 **For Mac computers:** After downloading the JSTOR PEP Device ID Tool to your Mac, make sure your Mac is on the same network as the NUC (if you have multiple options in your location). Then,  open a terminal window and  run the script by typing:   
 
