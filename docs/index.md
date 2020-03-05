@@ -28,13 +28,13 @@ cd ~/(the location of the script); chmod +x JSTORDiscoveryClient; ./JSTORDiscove
 For example, if you downloaded the script to your Downloads folder, you would type:
 cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient
 
-**For Windows computers:** double-click to run the JSTOR PEP Device ID Tool. The tool will search for the NUC device and if found, it will look like this:
+**For Windows computers:** double-click to run the JSTOR PEP Device ID Tool. The tool will search for the NUC device and if found, will look like this:
 
-[image needed]
+![NUC installer view for PC](img/NUC_PC_install.png)
 
 Click on the snuc-NUC link in “Results” to open a browser window showing your the NUC JSTOR installation.  The URL in the address window can be used by any computer in the network to use JSTOR on the NUC.  This consists of the device’s IP address, followed by the “:1323” suffix.  
 
-For example, if the IP address you see is 192.168.21.83, students and administrators would enter into a browser window: 
+For example, if the IP address you see is 192.168.21.83, students and administrators would enter the following into a browser window to access JSTOR: 
 
 **http://192.168.21.83:1323**
  
@@ -50,7 +50,7 @@ For example, if the IP address you see is 192.168.21.83, students and administra
 Use the **Admin Login** link in upper right corner to access student requests and to configure drives.
 
 ### About your admin password
-The password to login is: **PYEmBcutkd!X#294A**
+The password to login is: **ThoughExactlyAnotherStream**
 
 Admins cannot change a password. JSTOR Labs can change passwords either remotely or if a device is mailed to us.
 
@@ -81,8 +81,12 @@ Use the button to sort by either **Pending** requests, or **Completed** requests
 ##### Import a list
 If you are acting on student requests on non-networked computers, you may wish to export that list and then import it to your main computer to keep all requests on one device. Connect or transfer the .csv file you exported from the non-networked computer and on your main computer choose **Import.** 
 
+There is currently not a method for editing the csv file data then uploading the changes to the NUC.
+
 ##### Export a list
-You may wish to use this option if you are working with student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). 
+You may wish to use this option if you are working with student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). The links contained in the csv file can be used to access JSTOR content on the web.
+
+There is currently not a method for editing the csv file data then uploading the changes to the NUC.
 
 ## Introduction letter
 
