@@ -1,10 +1,4 @@
-# JSTOR Offline Index
-
-
-* [Getting started with the thumb drive](#thumb)
-* [Getting started with the NUC](#nuc)
-
-# About the thumb drive<a id="thumb"></a>
+# Using the thumb drive
 
 The thumb drive contains the full index of the JSTOR Archive Journals collection and open journal content. 
 
@@ -23,7 +17,7 @@ The thumb drive is compatible with Windows. (It is not designed for Macintosh co
 
 You may copy the entire contents of the flash drive (1.2 Terabytes) to the computer. Alternatively, you may copy just the search tool (~200 gigabytes) by skipping the "pdfs" folder which contains the open journal content.
 
-# About the NUC<a id="nuc"></a>
+# Using the NUC
 
 The device provided is a NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR Archive Journals collection.
 
