@@ -1,21 +1,21 @@
 # Using the thumb drive
 
-The thumb drive contains the full index of the JSTOR Archive Journals collection and open journal content. 
+The thumb drive contains the full index of the JSTOR Archive collection. PDF files of open journal and book content are also included. 
 
 ## Compatibility
 
-The thumb drive is compatible with Windows. (It is not designed for Macintosh computers.)
+The thumb drive is **compatible with Windows**. (It is not designed for Macintosh computers.)
 
 ## Installation
 
 1. Place the thumb drive into the computer. (The thumb drive uses a USB-C connector, but an adapter to USB-A is included as well.)
 2. A file explorer window will show the contents for the thumb drive. (If the thumb drive does not open automatically, navigate to “My Computer” and open the thumb drive.)
 3. Double-click “start.bat.” This process should take about one minute to complete.
-4. Open a browser, Chrome is ideal, and type “http://localhost:1323” into the URL bar. The search index should now be visible.
+4. Open a browser, Chrome is ideal, and enter “http://localhost:1323” into the URL bar. The search index should now be visible.
 
 ## Local access
 
-You may copy the entire contents of the flash drive (1.2 Terabytes) to the computer. Alternatively, you may copy just the search tool (~200 gigabytes) by skipping the "pdfs" folder which contains the open journal content.
+You may copy the entire contents of the flash drive (1.2 Terabytes) to the computer. Alternatively, you may copy just the search tool (~200 gigabytes) by skipping the "pdfs" folder which contains the PDF files for the open content.
 
 # Using the NUC
 
