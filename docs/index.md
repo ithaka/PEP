@@ -1,6 +1,30 @@
 # JSTOR Offline Index
 
-## About the NUC
+
+* [Getting started with the thumb drive](#thumb)
+* [Getting started with the NUC](#nuc)
+
+# About the thumb drive<a id="thumb"></a>
+
+The thumb drive contains the full index of the JSTOR Archive Journals collection and open journal content. 
+
+## Compatibility
+
+The thumb drive is compatible with Windows. (It is not designed for Macintosh computers.)
+
+## Installation
+
+1. Place the thumb drive into the computer. (The thumb drive uses a USB-C connector, but an adapter to USB-A is included as well.)
+2. A file explorer window will show the contents for the thumb drive. (If the thumb drive does not open automatically, navigate to “My Computer” and open the thumb drive.)
+3. Double-click “start.bat.” This process should take about one minute to complete.
+4. Open a browser, Chrome is ideal, and type “http://localhost:1323” into the URL bar. The search index should now be visible.
+
+## Local access
+
+You may copy the entire contents of the flash drive (1.2 Terabytes) to the computer. Alternatively, you may copy just the search tool (~200 gigabytes) by skipping the "pdfs" folder which contains the open journal content.
+
+# About the NUC<a id="nuc"></a>
+
 The device provided is a NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR Archive Journals collection.
 
 ## Installation
@@ -41,7 +65,7 @@ Click on the snuc-NUC link in “Results” to open a browser window showing you
 For example, if the IP address you see is 192.168.21.83, students and administrators would enter the following into a browser window to access JSTOR: 
 
 **http://192.168.21.83:1323**
- 
+
 ### Troubleshooting installation:
 * When initially using the JSTOR PEP Device ID Tool, if you see the message "No appliance found" in the status box, please contact us, and we can obtain it for you and further troubleshoot.
 * If the launch script doesn't work the first time, try to connect the computer you're using to discover the NUC with an ethernet connections (just like the NUC), since some networks separate out and block discovery tools across wifi and wired connections.
@@ -92,7 +116,7 @@ You may wish to use this option if you are working with student requests on a no
 
 There is currently not a method for editing the csv file data then uploading the changes to the NUC.
 
-## Introduction letter
+# Introduction letter
 
 Please use this letter to introduce the program and device to any necessary parties. Feel free to make edits to the letter as fits your needs.
 

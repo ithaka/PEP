@@ -4,73 +4,60 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="None">
+        
         
         
         <link rel="shortcut icon" href="img/favicon.ico">
-        <title>JSTOR Prison Education Documentation</title>
-        <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+        <title>Home - JSTOR Prison Education Documentation</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
         <link href="css/labs.css" rel="stylesheet">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="js/jquery-1.10.2.min.js" defer></script>
-        <script src="js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
-    <body class="homepage">
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.html">JSTOR Prison Education Documentation</a>
-                </div>
+                <a class="navbar-brand" href=".">JSTOR Prison Education Documentation</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li class="active">
-                                <a href="index.html">Home</a>
+                            <li class="navitem active">
+                                <a href="index.html" class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="activities.html">Classroom Exercises</a>
+                            <li class="navitem">
+                                <a href="activities.html" class="nav-link">Classroom Exercises</a>
                             </li>
-                            <li >
-                                <a href="students.html">Students</a>
+                            <li class="navitem">
+                                <a href="students.html" class="nav-link">Students</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li class="disabled">
-                                <a rel="next" >
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="activities.html">
+                            <li class="nav-item">
+                                <a rel="next" href="activities.html" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -80,21 +67,83 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#jstor-offline-index">JSTOR Offline Index</a></li>
-            <li><a href="#about-the-nuc">About the NUC</a></li>
-            <li><a href="#installation">Installation</a></li>
-            <li><a href="#administration">Administration</a></li>
-            <li><a href="#introduction-letter">Introduction letter</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#jstor-offline-index" class="nav-link">JSTOR Offline Index</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#about-the-thumb-drive" class="nav-link">About the thumb drive</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#compatibility" class="nav-link">Compatibility</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#installation" class="nav-link">Installation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#local-access" class="nav-link">Local access</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#about-the-nuc" class="nav-link">About the NUC</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#installation_1" class="nav-link">Installation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#administration" class="nav-link">Administration</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#introduction-letter" class="nav-link">Introduction letter</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h1 id="jstor-offline-index">JSTOR Offline Index</h1>
-<h2 id="about-the-nuc">About the NUC</h2>
-<p>The device provided is a NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR Archive Journals collection.</p>
+<ul>
+<li><a href="#thumb">Getting started with the thumb drive</a></li>
+<li><a href="#nuc">Getting started with the NUC</a></li>
+</ul>
+<h1 id="about-the-thumb-drive">About the thumb drive<a id="thumb"></a></h1>
+<p>The thumb drive contains the full index of the JSTOR Archive Journals collection and open journal content. </p>
+<h2 id="compatibility">Compatibility</h2>
+<p>The thumb drive is compatible with Windows. (It is not designed for Macintosh computers.)</p>
 <h2 id="installation">Installation</h2>
+<ol>
+<li>Place the thumb drive into the computer. (The thumb drive uses a USB-C connector, but an adapter to USB-A is included as well.)</li>
+<li>A file explorer window will show the contents for the thumb drive. (If the thumb drive does not open automatically, navigate to “My Computer” and open the thumb drive.)</li>
+<li>Double-click “start.bat.” This process should take about one minute to complete.</li>
+<li>Open a browser, Chrome is ideal, and type “http://localhost:1323” into the URL bar. The search index should now be visible.</li>
+</ol>
+<h2 id="local-access">Local access</h2>
+<p>You may copy the entire contents of the flash drive (1.2 Terabytes) to the computer. Alternatively, you may copy just the search tool (~200 gigabytes) by skipping the "pdfs" folder which contains the open journal content.</p>
+<h1 id="about-the-nuc">About the NUC<a id="nuc"></a></h1>
+<p>The device provided is a NUC (Next Unit of Computing) storage device that contains the full index of the JSTOR Archive Journals collection.</p>
+<h2 id="installation_1">Installation</h2>
 <p>Installation list</p>
 <ul>
 <li>NUC device</li>
@@ -155,9 +204,10 @@ cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient</p>
 <h5 id="export-a-list">Export a list</h5>
 <p>You may wish to use this option if you are working with student requests on a non-networked computer. Request lists you modify on the non-networked computer can be exported to a .csv file and then imported to your main machine. Only the items you are currently viewing will be exported (either the pending list or the completed list). The links contained in the csv file can be used to access JSTOR content on the web.</p>
 <p>There is currently not a method for editing the csv file data then uploading the changes to the NUC.</p>
-<h2 id="introduction-letter">Introduction letter</h2>
+<h1 id="introduction-letter">Introduction letter</h1>
 <p>Please use this letter to introduce the program and device to any necessary parties. Feel free to make edits to the letter as fits your needs.</p>
 <p><a href="https://ithaka-labs.s3.amazonaws.com/static-files/images/pep/Introductory+Letter+for+Department+of+Corrections+Feb+2020.docx">Download the Word doc</a></p></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -171,21 +221,21 @@ cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient</p>
         <script src="js/base.js" defer></script>
         <script src="search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
                 <div id="mkdocs-search-results"></div>
@@ -194,12 +244,12 @@ cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient</p>
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">
@@ -237,8 +287,3 @@ cd ~/Downloads; chmod +x JSTORDiscoveryClient; ./JSTORDiscoveryClient</p>
 
     </body>
 </html>
-
-<!--
-MkDocs version : 1.0.4
-Build Date UTC : 2020-03-05 17:23:15
--->

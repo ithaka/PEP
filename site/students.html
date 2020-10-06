@@ -9,68 +9,55 @@
         
         <link rel="shortcut icon" href="img/favicon.ico">
         <title>Students - JSTOR Prison Education Documentation</title>
-        <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
         <link href="css/labs.css" rel="stylesheet">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="js/jquery-1.10.2.min.js" defer></script>
-        <script src="js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.html">JSTOR Prison Education Documentation</a>
-                </div>
+                <a class="navbar-brand" href=".">JSTOR Prison Education Documentation</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="index.html">Home</a>
+                            <li class="navitem">
+                                <a href="index.html" class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="activities.html">Classroom Exercises</a>
+                            <li class="navitem">
+                                <a href="activities.html" class="nav-link">Classroom Exercises</a>
                             </li>
-                            <li class="active">
-                                <a href="students.html">Students</a>
+                            <li class="navitem active">
+                                <a href="students.html" class="nav-link">Students</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="activities.html">
+                            <li class="nav-item">
+                                <a rel="prev" href="activities.html" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li class="disabled">
-                                <a rel="prev" >
+                            <li class="nav-item">
+                                <a rel="next" class="nav-link disabled">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -80,22 +67,69 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#about-the-jstor-offline-index">About the JSTOR Offline Index</a></li>
-        <li class="main "><a href="#what-is-jstor">What is JSTOR?</a></li>
-            <li><a href="#whats-in-jstor">What's in JSTOR</a></li>
-        <li class="main "><a href="#how-to-use-jstor">How to use JSTOR</a></li>
-            <li><a href="#search-jstor">Search JSTOR</a></li>
-        <li class="main "><a href="#research-basics">Research Basics</a></li>
-            <li><a href="#formulating-a-search-strategy">Formulating a Search Strategy</a></li>
-            <li><a href="#assessing-search-results">Assessing Search Results</a></li>
-            <li><a href="#assessing-your-sources">Assessing Your Sources</a></li>
-            <li><a href="#citing-scholarly-work-creating-citations">Citing scholarly work: creating citations</a></li>
-            <li><a href="#creating-your-works-cited-or-bibliography-page-for-your-research-paper">Creating your Works Cited or Bibliography page for your research paper</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#about-the-jstor-offline-index" class="nav-link">About the JSTOR Offline Index</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#what-is-jstor" class="nav-link">What is JSTOR?</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#whats-in-jstor" class="nav-link">What's in JSTOR</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#how-to-use-jstor" class="nav-link">How to use JSTOR</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#search-jstor" class="nav-link">Search JSTOR</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#research-basics" class="nav-link">Research Basics</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#formulating-a-search-strategy" class="nav-link">Formulating a Search Strategy</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#assessing-search-results" class="nav-link">Assessing Search Results</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#assessing-your-sources" class="nav-link">Assessing Your Sources</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#citing-scholarly-work-creating-citations" class="nav-link">Citing scholarly work: creating citations</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#creating-your-works-cited-or-bibliography-page-for-your-research-paper" class="nav-link">Creating your Works Cited or Bibliography page for your research paper</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h1 id="about-the-jstor-offline-index">About the JSTOR Offline Index</h1>
 <h1 id="what-is-jstor">What is JSTOR?</h1>
@@ -141,10 +175,10 @@
 <h3 id="searching-for-multiple-spellings-of-a-word">Searching for Multiple Spellings of a Word</h3>
 <p>Using the tilde symbol: You can find words with spellings similar to your search term by using the tilde ( ~ ) symbol at the end of a search term. For example, ti:dostoyevsky~ helps find items with dostoyevsky in the item title field, as well as variant spellings like dostoevsky, dostoievski, dostoevsky, dostoyevski, dostoevskii, dostoevski, etc. Note: This way of searching encompasses a very large number of words. Narrowing this kind of search to the item title or another field is recommended. The first letter always remains the same.</p>
 <p>Wildcards: Wildcards take the place of one or more characters in a search term. A question mark is used for single character searching. An asterisk is used for multiple character searching. Wildcards are used to search for alternate spellings and variations on a root word. Wildcard characters cannot be used in place of the first letter of a word or within an exact phrase search. For example:</p>
-<p><strong>wom?n</strong> finds the words woman, women, womyn<br />
-<strong>bird<strong><em> finds bird, birding, birdman, birds, and other words that start with bird<br />
-</em>*organi?ation</strong> finds organization or organisation<brb />
-</strong>behavior*** searches for behavior, behavioral, behaviorist, behaviorism, or behaviorally<br /></p>
+<p><strong>wom?n*<em> finds the words woman, women, womyn<br />
+**bird</em></strong> finds bird, birding, birdman, birds, and other words that start with bird<br />
+<strong>organi?ation*<em> finds organization or organisation<brb />
+**behavior</em></strong> searches for behavior, behavioral, behaviorist, behaviorism, or behaviorally<br /></p>
 <p>You can combine search terms containing wild cards (wom?n AND "science education") and they may be used in a field search: au:sm?th or ti:shakespeare*</p>
 <h3 id="proximity-searching">Proximity searching</h3>
 <p>JSTOR search allows you to find terms that are within a set number of words of each other using the tilde (~) symbol. In this example ("debt forgiveness"~10), you will only get results with the terms debt and forgiveness within ten words of each other. You can replace "10" with a different number of words.</p>
@@ -565,6 +599,7 @@ More recent content is given a slight boost.</p>
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY1OTgwMjYxN119
 --></p></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -578,21 +613,21 @@ eyJoaXN0b3J5IjpbLTY1OTgwMjYxN119
         <script src="js/base.js" defer></script>
         <script src="search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
                 <div id="mkdocs-search-results"></div>
@@ -601,12 +636,12 @@ eyJoaXN0b3J5IjpbLTY1OTgwMjYxN119
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">
