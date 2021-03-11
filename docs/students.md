@@ -258,7 +258,7 @@ When you’ve conducted your initial search, take a look at the results to get a
 
 _First, how many results are there?_ For example, if your search produces no results, or very few results, that may not be enough material for you to work with. With such a small set of results, you should also consider the possibility that you might be excluding some useful sources. If your search produces 15,000 results, on the other hand, it’s not realistic to think you’ll be able to review all of them to find the useful ones.
 
-_Next, how relevant do the results seem at a glance?_ Have you put them in order by relevance? Scan through the results and see what pops out at you. Do they seem too technical, too broad, or just plain irrelevant? Are there terms that appear over and over — and if so, are those terms useful for your topic? 
+_Next, how relevant do the results seem at a glance?_ Scan through the results and see what pops out at you. Do they seem too technical, too broad, or just plain irrelevant? Are there terms that appear over and over — and if so, are those terms useful for your topic? 
 
 Think of searching as *a process*, not an event. It’s pretty unusual to get a perfect, useful, relevant set of results from the very first search string you enter. 
 

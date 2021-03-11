@@ -10,7 +10,7 @@ The thumb drive is **compatible with Windows**. (It is not designed for Macintos
 
 1. Place the thumb drive into the computer. (The thumb drive uses a USB-C connector, but an adapter to USB-A is included as well.)
 2. A file explorer window will show the contents for the thumb drive. (If the thumb drive does not open automatically, navigate to “My Computer” and open the thumb drive.)
-3. Double-click “start.bat.” This process should take about one minute to complete.
+3. Double-click “start.bat.” This process should take a few minutes (usually 3 - 4) to complete.
 4. Open a browser, Chrome is ideal, and enter “http://localhost:1323” into the URL bar. The search index should now be visible.
 
 ## Local access
@@ -77,13 +77,13 @@ The password to login is: **ThoughExactlyAnotherStream**
 Admins cannot change a password. JSTOR Labs can change passwords either remotely or if a device is mailed to us.
 
 ### Configure drives
-A 128G USB drive should be sufficient for this process.
+A 128G USB drive should be sufficient for this process. USB3 is preferred, but USB2 should also work, slowly.
 
 To configure a new drive:
 
 * Use the drive dropdown to choose a device to copy to, then click Select.
 * Make selections for which disciplines to include in the drive. You will see an indication of storage required for the device you are configuring.
-* On the next page, enter a name for your device, then click Export.
+* Wait for the indices (and content if applicable) to export. This may take minutes or hours.
 
 The main Admin page will display the devices you have configured from your NUC drive. 
 
